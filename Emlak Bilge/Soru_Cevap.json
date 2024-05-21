@@ -1,0 +1,2027 @@
+[
+    {
+        "Id": 1,
+        "Soru": "satılık evler için fiyat aralığı nedir",
+        "Cevap": "Satılık evler için fiyat aralığı, çok çeşitli faktörlere bağlı olarak değişebilir. Konum, evin büyüklüğü, oda sayısı, yapı tarzı, yaş ve diğer birçok faktör fiyatları etkiler."
+    },
+    {
+        "Id": 2,
+        "Soru": "kiralık evler için fiyat aralığı nedir",
+        "Cevap": "Kiralık evler için fiyat aralığı genellikle bölgeden bölgeye ve evin özelliklerine göre değişiklik gösterir. Örneğin, bir metropoldeki kiralık evler genellikle daha yüksek fiyatlarla gelirken, kırsal bölgelerde daha uygun fiyatlarla karşılaşabilirsiniz. Kiralık evlerin büyüklüğü, konumu, yaş ve diğer özellikleri de fiyatı etkileyen faktörler arasındadır."
+    },
+    {
+        "Id": 3,
+        "Soru": "kaç oda ve metrekareye sahip evler var",
+        "Cevap": "Farklı evler farklı özelliklere sahiptir. Genel olarak, 1+1'den başlayıp 5+1'e kadar çeşitli oda sayılarına sahip evler bulunmaktadır. Metrekareler de genellikle 50 metrekareden başlayıp 300 metrekareye kadar değişmektedir."
+    },
+    {
+        "Id": 4,
+        "Soru": "ev satın almak için gerekli belgeler nelerdir",
+        "Cevap": "Ev satın almak için genellikle kimlik belgesi, tapu sicil kaydı, tapu harcı dekontu, satıcı ve alıcı tarafından imzalanan satış sözleşmesi gibi belgeler gereklidir. Detaylı bilgi için yerel emlak danışmanınızla iletişime geçebilirsiniz."
+    },
+    {
+        "Id": 5,
+        "Soru": "kiracı olarak nelere dikkat etmeliyim",
+        "Cevap": "Kiracı olarak dikkat etmeniz gereken bazı önemli noktalar bulunmaktadır. Bunlar arasında kira sözleşmesi, kira bedeli ve ödeme şartları, evin durumu ve eksiklikleri gibi konular bulunmaktadır. Kiralık ev seçerken bu detaylara dikkat etmeniz önemlidir."
+    },
+    {
+        "Id": 6,
+        "Soru": "evin konumu ne kadar önemlidir",
+        "Cevap": "Evin konumu, birçok açıdan önemlidir. Okullara, alışveriş merkezlerine, hastanelere ve iş yerlerine olan uzaklık, konutun değerini etkileyen faktörlerden biridir. Ayrıca, çevredeki güvenlik durumu ve altyapı da göz önünde bulundurulmalıdır."
+    },
+    {
+        "Id": 7,
+        "Soru": "evin fiyatını belirleyen faktörler nelerdir",
+        "Cevap": "Evin fiyatını belirleyen birçok faktör bulunmaktadır. Bunlar arasında konum, evin yaşına ve durumuna, büyüklüğüne, iç özelliklerine ve dış görünüşüne, çevredeki olanaklara ve pazar koşullarına bağlı olarak değişebilir."
+    },
+    {
+        "Id": 8,
+        "Soru": "evin alım-satım işlemleri nasıl yapılır",
+        "Cevap": "Evin alım-satım işlemleri genellikle emlak danışmanları aracılığıyla gerçekleştirilir. İlgilenilen evin incelenmesi, pazarlık yapılması ve satış sözleşmesinin hazırlanması gibi adımları içerir. Tapu devri işlemi genellikle tapu dairesinde gerçekleştirilir."
+    },
+    {
+        "Id": 9,
+        "Soru": "evin kiralanması için gerekenler nelerdir",
+        "Cevap": "Evin kiralanması için kiracının kimlik belgesi, kefil veya teminat mektubu, kira bedelinin ödeneceği şekil ve tarihleri içeren kira sözleşmesi gibi belgeler gereklidir. Ayrıca, kira depozitosu genellikle kiracı tarafından verilir."
+    },
+    {
+        "Id": 10,
+        "Soru": "ev kiralama sürecinde dikkat edilmesi gerekenler nelerdir",
+        "Cevap": "Ev kiralama sürecinde dikkat edilmesi gerekenler arasında kira sözleşmesinin detayları, kira bedeli ve ödeme şartları, evin durumu ve eksiklikleri, ev sahibi ile iletişim şekli gibi konular bulunmaktadır. Kiralık ev seçerken bu detaylara dikkat etmek önemlidir."
+    },
+    {
+        "Id": 11,
+        "Soru": "evin yakınında alışveriş merkezi var mı",
+        "Cevap": "Evin yakınında bir alışveriş merkezi varsa, genellikle bölgenin cazibesini artırır ve yaşam kalitesini yükseltir. Eğer alışveriş merkezi ihtiyacınız varsa, bu konuda emlak danışmanınızdan bilgi alabilirsiniz."
+    },
+    {
+        "Id": 12,
+        "Soru": "ev alırken nelere dikkat etmeliyim",
+        "Cevap": "Ev alırken dikkat edilmesi gereken birçok faktör bulunmaktadır. Bunlar arasında evin konumu, fiyatı, yaş durumu, yapı kalitesi, çevre düzenlemesi, altyapı olanakları ve gelecekteki değer artış potansiyeli gibi unsurlar yer almaktadır."
+    },
+    {
+        "Id": 13,
+        "Soru": "ev kiralarken dikkat edilmesi gerekenler nelerdir",
+        "Cevap": "Ev kiralarken dikkat edilmesi gerekenler arasında kira sözleşmesinin detayları, kira bedeli ve ödeme şartları, evin durumu ve eksiklikleri, ev sahibi ile iletişim şekli, kontrat süresi ve kira artışı gibi konular bulunmaktadır."
+    },
+    {
+        "Id": 14,
+        "Soru": "evin yakınında park ve yeşil alanlar var mı",
+        "Cevap": "Evin yakınında park ve yeşil alanlar, yaşam kalitesini artıran önemli unsurlardan biridir. Eğer doğa ile iç içe bir yaşam istiyorsanız, bu konuda emlak danışmanınızdan bilgi alabilirsiniz."
+    },
+    {
+        "Id": 15,
+        "Soru": "evin yakınında okul ve hastane gibi kurumlar var mı",
+        "Cevap": "Evin yakınında okul, hastane gibi kurumlar, aileler ve çalışanlar için önemli bir kriter olabilir. Çocukların eğitim kurumlarına, hastanelere ve diğer önemli yerlere kolay ulaşımı yaşam kalitesini artırır."
+    },
+    {
+        "Id": 16,
+        "Soru": "üç öğrenici için ne büyüklükte bir ev uygun olur ",
+        "Cevap": "Öğrenciler için uygun ev büyüklüğü, öğrencilerin ihtiyaçlarına ve tercihlerine bağlı olarak değişebilir. Ancak genel olarak, birkaç öğrenci için uygun bir evin en az 2-3 yatak odası ve 1-2 banyosu olması tercih edilir. Buna ek olarak, geniş bir oturma alanı, mutfak ve çalışma alanları da önemlidir. Ayrıca, evin konumu da öğrencilerin okuluna veya kampüse kolay ulaşım sağlayacak şekilde belirlenmelidir. Bu nedenle, 2-3 öğrenci için uygun bir ev genellikle 80 metrekare ile 120 metrekare arasında değişen bir büyüklüğe sahip olabilir."
+    },
+    {
+        "Id": 17,
+        "Soru": "2 çocuktan oluşan 4 kişilik aile için ne büyüklükte bir ev uygun olur",
+        "Cevap": "Genellikle 2 çocuktan oluşan 4 kişilik bir aile için 3+1 veya 4+1 gibi en az 3 oda ve bir salonun bulunduğu bir ev uygun olabilir. Bu, ailenin ihtiyaçlarına ve tercihlerine bağlı olarak değişebilir."
+    },
+    {
+        "Id": 18,
+        "Soru": "wite içinde ev ile site dışında bir eve göre avantaj ve dezavantajları nelerdir",
+        "Cevap": "Site içinde evler genellikle güvenlik, ortak alan kullanımı ve sosyal imkanlar gibi avantajlar sunarken, site dışındaki evler daha fazla mahremiyet ve bağımsızlık sağlayabilir. Ancak site içindeki evler genellikle site aidatı gibi ek maliyetlerle de gelirken, site dışındaki evlerde bu tür maliyetler daha az olabilir."
+    },
+    {
+        "Id": 19,
+        "Soru": "eşyalı ev mi daha avantajlı eşyasız mı",
+        "Cevap": "Eşyalı evler genellikle taşınma sürecini kolaylaştırır ve hemen oturulabilir olmaları avantaj sağlar. Ancak eşyaların durumu, ev sahibinin sağladığı eşyaların kalitesi ve kişisel tercihlere bağlı olarak bu durum değişebilir. Eşyasız evler ise kişinin kendi eşyalarını kullanma özgürlüğünü sağlar ve bazen daha uygun fiyatlarla kiralanabilir."
+    },
+    {
+        "Id": 20,
+        "Soru": "ev kira sözleşmeleri ne kadar süre oluyor",
+        "Cevap": "Kira sözleşmeleri genellikle 1 yıl için yapılır. Ancak kiracı ve ev sahibi arasında yapılan anlaşmaya göre bu süre uzatılabilir veya kısaltılabilir. Bazı durumlarda kısa dönemli kiralık sözleşmeler de yapılabilir, ancak uzun dönemli kiralık sözleşmeler daha yaygındır."
+    },
+    {
+        "Id": 21,
+        "Soru": "evin yakınında spor salonu var mı",
+        "Cevap": "Evin yakınında bir spor salonu varsa, sağlıklı bir yaşam sürmek isteyenler için önemli bir avantaj olabilir. Eğer spor salonu ihtiyacınız varsa, bu konuda emlak danışmanınızdan bilgi alabilirsiniz."
+    },
+    {
+        "Id": 22,
+        "Soru": "evin içindeki mobilyaların durumu nasıl öğrenebilirim",
+        "Cevap": "Evin içindeki mobilyaların durumu genellikle ev sahibi veya emlakçı tarafından size gösterilir. Kiralık veya satılık evi incelemeden önce, mobilyaların durumu hakkında bilgi almak için ev sahibi veya emlak danışmanınızla iletişime geçebilirsiniz."
+    },
+    {
+        "Id": 23,
+        "Soru": "evin yakınında toplu taşıma durakları var mı",
+        "Cevap": "Evin yakınında toplu taşıma durakları varsa, ulaşım konusunda kolaylık sağlar ve iş veya okul gibi yerlere ulaşımı kolaylaştırır. Eğer toplu taşıma duraklarına yakın bir ev arıyorsanız, bu konuda emlak danışmanınızdan bilgi alabilirsiniz."
+    },
+    {
+        "Id": 24,
+        "Soru": "evin yakınında güvenlik kameraları bulunuyor mu",
+        "Cevap": "Evin yakınında güvenlik kameraları bulunması, bölgenin güvenliğine katkı sağlar ve ev sahipleri için bir güvence olabilir. Eğer güvenlik önemli bir kriterse, bu konuda emlak danışmanınızdan bilgi alabilirsiniz."
+    },
+    {
+        "Id": 25,
+        "Soru": "ev satın almak için ne kadar bir bütçe ayırmalıyım",
+        "Cevap": "Ev satın almak için ayırmanız gereken bütçe, tercih ettiğiniz konuma, evin büyüklüğüne, özelliklerine ve piyasa koşullarına bağlı olarak değişir. Öncelikle bütçenizi belirleyip, ardından bu kriterlere uygun evleri araştırmanız önemlidir."
+    },
+    {
+        "Id": 26,
+        "Soru": "evin yakınında çocuk oyun parkı var mı",
+        "Cevap": "Evin yakınında bir çocuk oyun parkı varsa, çocuklu aileler için büyük bir avantaj olabilir. Eğer çocuklarınız için güvenli bir oyun alanına yakın bir ev arıyorsanız, bu konuda emlak danışmanınızdan bilgi alabilirsiniz."
+    },
+    {
+        "Id": 27,
+        "Soru": "evin konumu gelecekteki değer artışı açısından nasıl değerlendirilir",
+        "Cevap": "Evin konumu, gelecekteki değer artışı açısından önemli bir rol oynar. Gelişen bölgelerdeki evler genellikle daha hızlı değer kazanırken, merkezi konumlar veya yatırım yapılan alanlar da değer artışı potansiyeli taşıyabilir. Evin gelecekteki değer artışı hakkında daha fazla bilgi almak için yerel emlak danışmanınızla görüşebilirsiniz."
+    },
+    {
+        "Id": 28,
+        "Soru": "evin yakınında sağlık merkezleri ve eczaneler var mı",
+        "Cevap": "Evin yakınında sağlık merkezleri ve eczaneler bulunması, acil durumlarda hızlı bir şekilde tıbbi yardım almayı sağlar. Eğer sağlık merkezlerine ve eczanelere yakın bir ev arıyorsanız, bu konuda emlak danışmanınızdan bilgi alabilirsiniz."
+    },
+    {
+        "Id": 29,
+        "Soru": "evin yakınında eğlence ve kültürel mekanlar var mı",
+        "Cevap": "Evin yakınında eğlence ve kültürel mekanlar bulunması, sosyal yaşamı zenginleştirir ve boş zamanları değerlendirmek için fırsatlar sunar. Eğer eğlence ve kültürel mekanlara yakın bir ev arıyorsanız, bu konuda emlak danışmanınızdan bilgi alabilirsiniz."
+    },
+    {
+        "Id": 30,
+        "Soru": "evin yakınında banka ve ATM'ler var mı",
+        "Cevap": "Evin yakınında banka ve ATM'ler bulunması, bankacılık işlemlerini kolaylaştırır ve nakit ihtiyacını karşılamayı sağlar. Eğer banka ve ATM'lere yakın bir ev arıyorsanız, bu konuda emlak danışmanınızdan bilgi alabilirsiniz."
+    },
+    {
+        "Id": 31,
+        "Soru": "evin yakınında restoran ve kafe gibi yerler var mı",
+        "Cevap": "Evin yakınında restoran ve kafe gibi yerler bulunması, dışarıda yeme içme ihtiyacını karşılamak için olanak sağlar ve sosyal yaşamı zenginleştirir. Eğer restoran ve kafe gibi yerlere yakın bir ev arıyorsanız, bu konuda emlak danışmanınızdan bilgi alabilirsiniz."
+    },
+    {
+        "Id": 32,
+        "Soru": "evin yakınında aktif olarak kullanılan bir park yeri var mı",
+        "Cevap": "Evin yakınında aktif olarak kullanılan bir park yeri varsa, araç sahipleri için büyük bir avantaj olabilir. Eğer park yeri ihtiyacınız varsa, bu konuda emlak danışmanınızdan bilgi alabilirsiniz."
+    },
+    {
+        "Id": 33,
+        "Soru": "evin yakınında kamu hizmeti sunan kurumlar var mı",
+        "Cevap": "Evin yakınında kamu hizmeti sunan kurumlar bulunması, hizmet alımını kolaylaştırır ve resmi işlemleri hızlı bir şekilde yapmayı sağlar. Eğer kamu hizmeti sunan kurumlara yakın bir ev arıyorsanız, bu konuda emlak danışmanınızdan bilgi alabilirsiniz."
+    },
+    {
+        "Id": 34,
+        "Soru": "evin yakınında hayvan dostu parklar veya alanlar var mı",
+        "Cevap": "Evin yakınında hayvan dostu parklar veya alanlar bulunması, evcil hayvan sahipleri için önemli bir avantaj olabilir. Eğer evcil hayvanınız varsa ve onun için açık alanlara yakın bir ev arıyorsanız, bu konuda emlak danışmanınızdan bilgi alabilirsiniz."
+    },
+    {
+        "Id": 35,
+        "Soru": "evin yakınında aktif olarak kullanılan bir alışveriş merkezi var mı",
+        "Cevap": "Evin yakınında aktif olarak kullanılan bir alışveriş merkezi varsa, günlük alışveriş ihtiyaçlarınızı karşılamak için size kolaylık sağlar. Eğer alışveriş merkezlerine yakın bir ev arıyorsanız, bu konuda emlak danışmanınızdan bilgi alabilirsiniz."
+    },
+    {
+        "Id": 36,
+        "Soru": "evin yakınında bisiklet yolu veya yürüyüş parkurları var mı",
+        "Cevap": "Evin yakınında bisiklet yolu veya yürüyüş parkurları bulunması, sağlıklı yaşamı destekler ve açık havada zaman geçirmeyi sağlar. Eğer bisiklet yolu veya yürüyüş parkurlarına yakın bir ev arıyorsanız, bu konuda emlak danışmanınızdan bilgi alabilirsiniz."
+    },
+    {
+        "Id": 37,
+        "Soru": "evin yakınında özel veya devlet okulları var mı",
+        "Cevap": "Evin yakınında özel veya devlet okulları bulunması, çocukların eğitimine olanak sağlar ve aileler için önemli bir kriter olabilir. Eğer okullara yakın bir ev arıyorsanız, bu konuda emlak danışmanınızdan bilgi alabilirsiniz."
+    },
+    {
+        "Id": 38,
+        "Soru": "evin yakınında halka açık yüzme havuzları var mı",
+        "Cevap": "Evin yakınında halka açık yüzme havuzları bulunması, yaz aylarında serinlemek ve spor yapmak için olanak sağlar. Eğer yüzme havuzlarına yakın bir ev arıyorsanız, bu konuda emlak danışmanınızdan bilgi alabilirsiniz."
+    },
+    {
+        "Id": 39,
+        "Soru": "evin yakınında evcil hayvan bakım merkezleri veya veteriner klinikleri var mı",
+        "Cevap": "Evin yakınında evcil hayvan bakım merkezleri veya veteriner klinikleri bulunması, evcil hayvan sahipleri için önemli bir kolaylık sağlar. Eğer evcil hayvanınız varsa ve onun için bakım merkezlerine veya veteriner kliniklerine yakın bir ev arıyorsanız, bu konuda emlak danışmanınızdan bilgi alabilirsiniz."
+    },
+    {
+        "Id": 40,
+        "Soru": "evin yakınında sinema veya tiyatro gibi kültürel etkinlik mekanları var mı",
+        "Cevap": "Evin yakınında sinema veya tiyatro gibi kültürel etkinlik mekanları bulunması, sosyal yaşamı zenginleştirir ve boş zamanları değerlendirmek için fırsatlar sunar. Eğer kültürel etkinlik mekanlarına yakın bir ev arıyorsanız, bu konuda emlak danışmanınızdan bilgi alabilirsiniz."
+    },
+    {
+        "Id": 41,
+        "Soru": "hangi bölgede ev almak daha mantıklı olabilir",
+        "Cevap": "Hangi bölgede ev almanın daha mantıklı olduğu, kişisel tercihlere, bütçeye, yaşam tarzına ve gelecekteki beklentilere bağlıdır. Öncelikle ihtiyaçlarınızı ve önceliklerinizi belirleyerek, almak istediğiniz evin özelliklerini göz önünde bulundurarak karar verebilirsiniz."
+    },
+    {
+        "Id": 42,
+        "Soru": "yatırım yapmak için mi yoksa oturmak için mi ev almalıyım",
+        "Cevap": "Ev alırken yatırım yapmak mı yoksa oturmak için mi almak gerektiği, kişisel hedeflere ve mali duruma bağlıdır. Eğer uzun vadeli bir yatırım düşünüyorsanız, bölgenin değer artış potansiyelini değerlendirerek bir ev alabilirsiniz. Ancak kendi oturacağınız evi satın almak ise konfor ve ihtiyaçlarınızı göz önünde bulundurarak yapılmalıdır."
+    },
+    {
+        "Id": 43,
+        "Soru": "ev almak için ne kadar bir bütçe ayırmalıyım",
+        "Cevap": "Ev almak için ayırmanız gereken bütçe, tercih ettiğiniz konuma, evin büyüklüğüne, özelliklerine ve piyasa koşullarına bağlı olarak değişir. Öncelikle bütçenizi belirleyip, ardından bu kriterlere uygun evleri araştırmanız önemlidir."
+    },
+    {
+        "Id": 44,
+        "Soru": "ev alırken nelere dikkat etmeliyim",
+        "Cevap": "Ev alırken dikkat edilmesi gereken birçok faktör bulunmaktadır. Bunlar arasında evin konumu, fiyatı, yaş durumu, yapı kalitesi, çevre düzenlemesi, altyapı olanakları ve gelecekteki değer artış potansiyeli gibi unsurlar yer almaktadır."
+    },
+    {
+        "Id": 45,
+        "Soru": "kredi kullanarak mı yoksa nakit para ile mi ev almalıyım",
+        "Cevap": "Kredi kullanarak mı yoksa nakit para ile mi ev almanız gerektiği, kişisel finansal durumunuza ve tercihlerinize bağlıdır. Kredi kullanarak ev almak, nakit paranızı korumanıza ve farklı yatırım araçlarına yönlendirmenize olanak sağlayabilirken, nakit para ile ev almak ise faiz maliyetinden kaçınmanızı ve daha az borçlanmanızı sağlar."
+    },
+    {
+        "Id": 46,
+        "Soru": "evin gelecekteki değeri nasıl tahmin edilir",
+        "Cevap": "Evin gelecekteki değerini tahmin etmek için bölgenin gelişim potansiyeli, altyapı olanakları, çevredeki projeler, emlak piyasası trendleri ve ekonomik faktörler gibi birçok faktörü göz önünde bulundurmak gerekir. Ayrıca, uzmanlardan ve emlak danışmanlarından destek alarak daha doğru bir tahmin yapabilirsiniz."
+    },
+    {
+        "Id": 47,
+        "Soru": "evin alım-satım işlemleri nasıl yapılır",
+        "Cevap": "Evin alım-satım işlemleri genellikle emlak danışmanları aracılığıyla gerçekleştirilir. İlgilenilen evin incelenmesi, pazarlık yapılması ve satış sözleşmesinin hazırlanması gibi adımları içerir. Tapu devri işlemi genellikle tapu dairesinde gerçekleştirilir."
+    },
+    {
+        "Id": 48,
+        "Soru": "ev almak için hangi zaman en uygun zaman olabilir",
+        "Cevap": "Ev almak için en uygun zaman, genellikle piyasa koşulları ve kişisel duruma bağlıdır. Ancak genel olarak, emlak piyasasındaki durgunluk dönemleri veya faiz oranlarının düşük olduğu zamanlar, ev almak için daha uygun olabilir. Ayrıca, kış ayları da genellikle emlak piyasasında daha az rekabetçi bir dönemdir."
+    },
+    {
+        "Id": 49,
+        "Soru": "evin bakım ve onarım maliyetleri nelerdir",
+        "Cevap": "Evin bakım ve onarım maliyetleri, evin yaşı, büyüklüğü, konumu ve durumuna bağlı olarak değişiklik gösterebilir. Genellikle bakım ve onarım maliyetleri, evin belli periyotlarla yapılan rutin bakımları ve beklenmedik onarımları içerir."
+    },
+    {
+        "Id": 50,
+        "Soru": "evin alımında kullanılan vergi ve diğer masraflar nelerdir",
+        "Cevap": "Evin alımında kullanılan vergi ve diğer masraflar arasında tapu harcı, tapu sicil müdürlüğü harcı, emlak vergisi, satış komisyonu, ipotek tesis ücreti ve satış bedeline eklenen KDV gibi kalemler bulunabilir. Bu masraflar, alınan evin değerine ve yerel düzenlemelere bağlı olarak değişebilir."
+    },
+    {
+        "Id": 51,
+        "Soru": "evin alımında dikkat edilmesi gereken vergi avantajları nelerdir",
+        "Cevap": "Evin alımında dikkat edilmesi gereken vergi avantajları arasında konut kredisi faiz indirimi, tapu harcı indirimi, KDV indirimi gibi avantajlar bulunabilir. Bu avantajlar, yerel vergi düzenlemelerine ve ev alımıyla ilgili diğer faktörlere bağlı olarak değişebilir."
+    },
+    {
+        "Id": 52,
+        "Soru": "evin alımında kullanılan kredi türleri nelerdir",
+        "Cevap": "Evin alımında kullanılan kredi türleri arasında konut kredisi, ipotekli kredi, sabit faizli kredi ve değişken faizli kredi gibi seçenekler bulunabilir. Hangi kredi türünün tercih edileceği, kişisel finansal duruma, faiz oranlarına ve geri ödeme planına bağlı olarak değişebilir."
+    },
+    {
+        "Id": 53,
+        "Soru": "evin alımında kullanılan konut kredisi nasıl hesaplanır",
+        "Cevap": "Konut kredisi hesaplaması genellikle kredi tutarı, faiz oranı ve vadeye göre yapılır. Ayrıca, kredi kullanıcısının gelir durumu, kredi geçmişi ve teminat durumu da kredi hesaplamasında önemli rol oynar. Bir banka veya finansal kurumdan alınacak konut kredisi için detaylı bir hesaplama yapılabilir."
+    },
+    {
+        "Id": 54,
+        "Soru": "evin alımında kullanılan ipotekli kredi nedir",
+        "Cevap": "İpotekli kredi, bir gayrimenkulü teminat göstererek alınan kredi türüdür. Evin alımında kullanılan ipotekli kredi, kredi tutarı ve geri ödeme planı belirlendikten sonra evin ipotek altına alınmasıyla gerçekleşir. Kredi borcu ödenene kadar ipotek devam eder."
+    },
+    {
+        "Id": 55,
+        "Soru": "evin alımında dikkat edilmesi gereken kaçırılmaması gereken noktalar nelerdir",
+        "Cevap": "Evin alımında dikkat edilmesi gereken ve kaçırılmaması gereken noktalar arasında evin fiziksel durumu, tapu ve imar durumu, çevre faktörleri, ulaşım imkanları, komşular ve mahalle hakkında bilgi toplama, değerleme raporu gibi unsurlar bulunabilir."
+    },
+    {
+        "Id": 56,
+        "Soru": "evin alımında dikkat edilmesi gereken önemli belgeler nelerdir",
+        "Cevap": "Evin alımında dikkat edilmesi gereken önemli belgeler arasında tapu, tapu kaydı, imar durumu belgesi, iskan belgesi, kullanma izni belgesi, vergi dairesi borcu yoktur belgesi, aidat durumu ve ev sahibinin kimlik bilgileri gibi belgeler bulunabilir."
+    },
+    {
+        "Id": 57,
+        "Soru": "evin alımında dikkat edilmesi gereken önemli noktalar nelerdir",
+        "Cevap": "Evin alımında dikkat edilmesi gereken önemli noktalar arasında evin fiziksel durumu, konumu, altyapı olanakları, çevresel faktörler, değer artış potansiyeli, tapu ve imar durumu, altyapı olanakları ve ödeme planı gibi unsurlar bulunabilir."
+    },
+    {
+        "Id": 58,
+        "Soru": "evin alımında kullanılan kredi faiz oranları nasıl belirlenir",
+        "Cevap": "Evin alımında kullanılan kredi faiz oranları genellikle piyasa koşulları, ekonomik faktörler, kredi geçmişi, kredi tutarı ve geri ödeme planı gibi etmenlere bağlı olarak belirlenir. Bankalar ve finansal kurumlar, faiz oranlarını belirlerken bu faktörleri dikkate alırlar."
+    },
+    {
+        "Id": 59,
+        "Soru": "evin alımında kullanılan kredi geri ödeme planı nasıl olmalıdır",
+        "Cevap": "Evin alımında kullanılan kredi geri ödeme planı, kişisel finansal duruma ve tercihlere bağlı olarak belirlenir. Genellikle kredi vadesi, taksit miktarı, faiz oranı ve ödeme sıklığı gibi faktörler, geri ödeme planının oluşturulmasında önemli rol oynar."
+    },
+    {
+        "Id": 60,
+        "Soru": "evin alımında kullanılan kredi için ne kadar peşinat ödenmelidir",
+        "Cevap": "Evin alımında kullanılan kredi için ödenmesi gereken peşinat miktarı genellikle kredi tutarına ve bankanın politikalarına bağlı olarak değişir. Genellikle peşinat oranı %20 ile %30 arasında değişebilir. Ancak daha yüksek bir peşinat ödemek, kredi miktarını azaltabilir ve faiz maliyetini düşürebilir."
+    },
+    {
+        "Id": 61,
+        "Soru": "evin kira bedeli ne kadar olmalıdır",
+        "Cevap": "Evin kira bedeli, kiracının bütçesine, yaşam standartlarına ve tercihlerine bağlı olarak değişir. Genellikle aylık gelirin üçte biri kadar kira bedeli önerilir, ancak bu oran değişebilir. Kiracının rahatlıkla ödeyebileceği bir kira bedeli belirlemesi önemlidir."
+    },
+    {
+        "Id": 62,
+        "Soru": "evin kiralanması için ne kadar depozito verilmelidir",
+        "Cevap": "Evin kiralanması için istenen depozito miktarı genellikle bir veya iki aylık kira bedeli kadar olabilir. Ancak bu miktar, ev sahibinin politikalarına ve kira sözleşmesine bağlı olarak değişebilir. Kiracı, ev sahibinin beklentilerini ve kira sözleşmesini dikkate alarak depozito miktarını belirlemelidir."
+    },
+    {
+        "Id": 63,
+        "Soru": "evin kira sözleşmesi nasıl olmalıdır",
+        "Cevap": "Evin kira sözleşmesi, kiracı ile ev sahibi arasında yapılan ve kira şartlarını belirleyen yazılı bir anlaşmadır. Kira süresi, kira bedeli, depozito miktarı, ödeme şartları, evin durumu ve diğer detaylar kira sözleşmesinde yer almalıdır. Kiracının haklarını ve yükümlülüklerini koruyan bir sözleşme olmalıdır."
+    },
+    {
+        "Id": 64,
+        "Soru": "eşyalı mı yoksa eşyasız mı ev kiralamak daha avantajlıdır",
+        "Cevap": "Eşyalı mı yoksa eşyasız mı ev kiralamak daha avantajlı olduğu, kiracının tercihlerine ve ihtiyaçlarına bağlıdır. Eşyalı ev kiralamanın avantajı, mobilya ve beyaz eşyaların kiracı tarafından satın alınması gerekmemesidir. Ancak eşyasız ev kiralamak, kiracının kendi mobilya ve eşyalarını kullanma özgürlüğünü sağlar."
+    },
+    {
+        "Id": 65,
+        "Soru": "evin konumu ne kadar önemlidir",
+        "Cevap": "Evin konumu, kiralayan için önemli bir faktördür çünkü günlük yaşamı etkiler. Konum, işe, okula, alışveriş merkezlerine ve diğer önemli yerlere olan uzaklık, ulaşım imkanları, çevredeki güvenlik durumu ve sosyal yaşam gibi faktörler dikkate alınmalıdır."
+    },
+    {
+        "Id": 66,
+        "Soru": "evin kiralanması için gereken belgeler nelerdir",
+        "Cevap": "Evin kiralanması için genellikle kimlik belgesi, gelir belgesi veya maaş bordrosu, kefil veya teminat mektubu, kira sözleşmesi gibi belgeler gereklidir. Ayrıca, ev sahibinin isteğine göre ek belgeler de istenebilir."
+    },
+    {
+        "Id": 67,
+        "Soru": "evin kiralanması için ne kadar süreli kira sözleşmesi yapılmalıdır",
+        "Cevap": "Evin kiralanması için yapılan kira sözleşmesi genellikle bir yıl süreyle yapılır. Ancak kiracı ve ev sahibi arasında yapılan anlaşmaya göre kira sözleşmesi daha kısa veya daha uzun süreli olabilir. Kiracının ve ev sahibinin ihtiyaçları ve tercihleri dikkate alınarak kira süresi belirlenmelidir."
+    },
+    {
+        "Id": 68,
+        "Soru": "evin kiralanması için ödenen kira bedeline nasıl karar verilir",
+        "Cevap": "Evin kiralanması için ödenen kira bedeli genellikle piyasa koşulları, evin konumu, büyüklüğü, özellikleri ve kira sözleşmesi şartlarına bağlı olarak belirlenir. Kiracı ve ev sahibi, adil bir kira bedeli belirlemek için pazarlık yapabilir."
+    },
+    {
+        "Id": 69,
+        "Soru": "evin kiralanması için dikkat edilmesi gerekenler nelerdir",
+        "Cevap": "Evin kiralanması için dikkat edilmesi gerekenler arasında kira şartları, evin durumu, ödeme koşulları, komşular, çevre faktörleri, kira sözleşmesi detayları ve kiracının hakları gibi konular bulunur. Kiracının ihtiyaçlarına ve tercihlerine uygun bir ev seçmesi önemlidir."
+    },
+    {
+        "Id": 70,
+        "Soru": "evin kiralanması için uygun bir zaman var mıdır",
+        "Cevap": "Evin kiralanması için uygun bir zaman genellikle kişisel tercihlere ve piyasa koşullarına bağlıdır. Ancak genel olarak, kiracıların taşınma planlarına uygun bir zamanı tercih etmeleri önerilir. Ayrıca, emlak piyasasındaki hareketlilik ve kira fiyatları da kiralanacak evin seçimi için etkili olabilir."
+    },
+    {
+        "Id": 71,
+        "Soru": "evin kiralanması için en iyi bölge hangisidir",
+        "Cevap": "Evin kiralanması için en iyi bölge, kiracının tercihlerine, ihtiyaçlarına ve bütçesine bağlı olarak değişir. İyi bir bölge genellikle güvenli, ulaşım olanaklarına yakın, alışveriş merkezlerine ve diğer sosyal olanaklara erişimin kolay olduğu bir yerdir. Kiracının yaşam tarzına ve gereksinimlerine uygun bir bölge seçmesi önemlidir."
+    },
+    {
+        "Id": 72,
+        "Soru": "evin kiralanması için önemli olan unsurlar nelerdir",
+        "Cevap": "Evin kiralanması için önemli olan unsurlar arasında kira bedeli, konum, evin durumu, ödeme koşulları, kira sözleşmesi şartları, komşular, çevre faktörleri, güvenlik ve altyapı olanakları gibi unsurlar bulunur. Kiracının ihtiyaçlarına ve tercihlerine uygun bir ev seçmesi önemlidir."
+    },
+    {
+        "Id": 73,
+        "Soru": "evin kiralanması için nelere dikkat etmeliyim",
+        "Cevap": "Evin kiralanması için dikkat edilmesi gerekenler arasında kira şartları, evin durumu, ödeme koşulları, komşular, çevre faktörleri, kira sözleşmesi detayları ve kiracının hakları gibi konular bulunur. Kiracının ihtiyaçlarına ve tercihlerine uygun bir ev seçmesi önemlidir."
+    },
+    {
+        "Id": 74,
+        "Soru": "evin kiralanması için en uygun zaman ne zamandır",
+        "Cevap": "Evin kiralanması için en uygun zaman genellikle piyasa koşullarına ve kişisel tercihlere bağlıdır. Ancak genel olarak, emlak piyasasındaki durgunluk dönemleri veya kira fiyatlarının düşük olduğu zamanlar, ev kiralamak için daha uygun olabilir. Ayrıca, taşınma planlarına uygun bir zamanı tercih etmek önemlidir."
+    },
+    {
+        "Id": 75,
+        "Soru": "evin kiralanması için ödenen kira bedeli neye göre belirlenir",
+        "Cevap": "Evin kiralanması için ödenen kira bedeli genellikle piyasa koşulları, evin konumu, büyüklüğü, özellikleri ve kira sözleşmesi şartlarına bağlı olarak belirlenir. Kiracı ve ev sahibi, adil bir kira bedeli belirlemek için pazarlık yapabilir ve piyasa araştırması yapabilir."
+    },
+    {
+        "Id": 76,
+        "Soru": "evin kiralanması için ne kadar bir bütçe ayırmalıyım",
+        "Cevap": "Evin kiralanması için ayırmanız gereken bütçe, tercih ettiğiniz konuma, evin büyüklüğüne, özelliklerine ve piyasa koşullarına bağlı olarak değişir. Öncelikle bütçenizi belirleyip, ardından bu kriterlere uygun evleri araştırmanız önemlidir."
+    },
+    {
+        "Id": 77,
+        "Soru": "evin kiralanması için dikkat edilmesi gereken vergi avantajları nelerdir",
+        "Cevap": "Evin kiralanması için dikkat edilmesi gereken vergi avantajları arasında kira geliri vergisi, ev sahibi tarafından ödenen emlak vergisi, bakım ve onarım masraflarının vergi indirimine tabi olması gibi avantajlar bulunabilir. Kiracılar, vergi avantajlarını değerlendirerek uygun bir ev seçebilir."
+    },
+    {
+        "Id": 78,
+        "Soru": "evin kiralanması için kullanılan kredi türleri nelerdir",
+        "Cevap": "Evin kiralanması için kullanılan kredi türleri arasında konut kredisi, ipotekli kredi, sabit faizli kredi ve değişken faizli kredi gibi seçenekler bulunabilir. Kiracılar, kredi kullanarak ev kiralamak istediklerinde uygun kredi türünü seçebilirler."
+    },
+    {
+        "Id": 79,
+        "Soru": "evin kiralanması için gereken belgeler nelerdir",
+        "Cevap": "Evin kiralanması için gereken belgeler arasında kimlik belgesi, gelir belgesi veya maaş bordrosu, kefil veya teminat mektubu, kira sözleşmesi gibi belgeler bulunabilir. Ayrıca, ev sahibinin isteğine göre ek belgeler de istenebilir."
+    },
+    {
+        "Id": 80,
+        "Soru": "evin kiralanması için ne kadar süreli kira sözleşmesi yapılmalıdır",
+        "Cevap": "Evin kiralanması için yapılan kira sözleşmesi genellikle bir yıl süreyle yapılır. Ancak kiracı ve ev sahibi arasında yapılan anlaşmaya göre kira sözleşmesi daha kısa veya daha uzun süreli olabilir. Kiracının ve ev sahibinin ihtiyaçları ve tercihleri dikkate alınarak kira süresi belirlenmelidir."
+    },
+    {
+        "Id": 81,
+        "Soru": "konut mu yoksa arsa mı almalıyım",
+        "Cevap": "Konut mu yoksa arsa mı almanız gerektiği, kişisel tercihlerinize, bütçenize, yatırım amacınıza ve gelecek planlarınıza bağlıdır. Konut, hemen oturulabilir ve gelir getirebilirken, arsa uzun vadeli bir yatırım olabilir ve geliştirme potansiyeline sahip olabilir."
+    },
+    {
+        "Id": 82,
+        "Soru": "konut mu almak daha avantajlı yoksa arsa mı",
+        "Cevap": "Konut mu almak daha avantajlı yoksa arsa mı tercihi, kişisel tercihlerinize, yatırım amacınıza ve finansal durumunuza bağlıdır. Konut, hemen kullanılabilir ve kiralanabilir gelir getirebilirken, arsa uzun vadeli bir yatırım olabilir ve geliştirme potansiyeline sahip olabilir."
+    },
+    {
+        "Id": 83,
+        "Soru": "konut alırken nelere dikkat etmeliyim",
+        "Cevap": "Konut alırken dikkat etmeniz gerekenler arasında konutun konumu, fiziksel durumu, altyapı olanakları, fiyatı, komşuları, çevre faktörleri, güvenlik durumu, ulaşım imkanları ve gelecek değer artış potansiyeli gibi unsurlar bulunur."
+    },
+    {
+        "Id": 84,
+        "Soru": "arsa alırken nelere dikkat etmeliyim",
+        "Cevap": "Arsa alırken dikkat etmeniz gerekenler arasında arsanın konumu, imar durumu, altyapı olanakları, çevre faktörleri, geliştirme potansiyeli, fiyatı, planlama düzenlemeleri ve gelecek değer artış potansiyeli gibi unsurlar bulunur."
+    },
+    {
+        "Id": 85,
+        "Soru": "konut mu yoksa arsa mı daha iyi bir yatırım",
+        "Cevap": "Konut mu yoksa arsa mı daha iyi bir yatırım olduğu, yatırım amacınıza, bütçenize ve piyasa koşullarına bağlıdır. Konut, hemen kullanılabilir ve kiralanabilir gelir getirebilirken, arsa uzun vadeli bir yatırım olabilir ve değer artışı potansiyeline sahip olabilir."
+    },
+    {
+        "Id": 86,
+        "Soru": "arsa almak için en iyi zaman ne zaman olabilir",
+        "Cevap": "Arsa almak için en iyi zaman genellikle piyasa koşullarına, arsa değerlerine ve kişisel tercihlere bağlıdır. Ancak genel olarak, arsa almak için uygun zamanlar, gelişme potansiyeli yüksek bölgelerdeki düşük değerli arsaların bulunduğu dönemler olabilir."
+    },
+    {
+        "Id": 87,
+        "Soru": "arsa almak için uygun bir bütçe ne kadar olmalıdır",
+        "Cevap": "Arsa almak için uygun bir bütçe, arsanın bulunduğu konuma, büyüklüğüne, imar durumuna, altyapı olanaklarına ve piyasa değerlerine bağlı olarak değişir. Öncelikle arsa almak istediğiniz bölgedeki arsa fiyatlarını araştırarak uygun bir bütçe belirlemelisiniz."
+    },
+    {
+        "Id": 87,
+        "Soru": "yazlık mı yoksa normal ev mi almalıyım",
+        "Cevap": "Yazlık mı yoksa normal ev mi almanız gerektiği, tercihlerinize, bütçenize, kullanım sıklığınıza ve yaşam tarzınıza bağlıdır. Yazlık genellikle dinlenme ve tatil amaçlı kullanılırken, normal ev ise sürekli ikamet edilmesi için tercih edilir."
+    },
+    {
+        "Id": 88,
+        "Soru": "yazlık mı yoksa normal ev mi daha avantajlı",
+        "Cevap": "Yazlık mı yoksa normal ev mi daha avantajlı olduğu, tercihlerinize, ihtiyaçlarınıza ve bütçenize bağlıdır. Yazlık genellikle dinlenme ve tatil amaçlı kullanıldığı için daha düşük maliyetlidir, ancak sürekli ikamet etmek için daha uygun olmayabilir."
+    },
+    {
+        "Id": 89,
+        "Soru": "yazlık alırken nelere dikkat etmeliyim",
+        "Cevap": "Yazlık alırken dikkat etmeniz gerekenler arasında konum, erişilebilirlik, altyapı olanakları, çevre faktörleri, güvenlik durumu, bakım ve onarım gereksinimi, ulaşım imkanları, sosyal olanaklar ve gelecek değer artış potansiyeli gibi unsurlar bulunur."
+    },
+    {
+        "Id": 90,
+        "Soru": "yazlık almak mı yoksa normal ev almak mı daha iyi bir yatırım",
+        "Cevap": "Yazlık almak mı yoksa normal ev almak mı daha iyi bir yatırım olduğu, tercihlerinize, bütçenize ve yatırım amacınıza bağlıdır. Yazlık genellikle tatil amaçlı kullanıldığı için düşük maliyetlidir, ancak normal ev sürekli ikamet edilmek için daha uygun olabilir ve değer artışı potansiyeline sahip olabilir."
+    },
+    {
+        "Id": 91,
+        "Soru": "yazlık almak için en uygun zaman ne zaman olabilir",
+        "Cevap": "Yazlık almak için en uygun zaman genellikle piyasa koşullarına ve kişisel tercihlere bağlıdır. Ancak genel olarak, emlak piyasasındaki durgunluk dönemleri veya yazlık bölgedeki düşük sezonlar, yazlık almak için daha uygun olabilir."
+    },
+    {
+        "Id": 92,
+        "Soru": "yazlık alırken nelere dikkat etmeliyim",
+        "Cevap": "Yazlık alırken dikkat etmeniz gerekenler arasında konum, erişilebilirlik, altyapı olanakları, çevre faktörleri, güvenlik durumu, bakım ve onarım gereksinimi, ulaşım imkanları, sosyal olanaklar ve gelecek değer artış potansiyeli gibi unsurlar bulunur."
+    },
+    {
+        "Id": 93,
+        "Soru": "yazlık almak için uygun bir bütçe ne kadar olmalıdır",
+        "Cevap": "Yazlık almak için uygun bir bütçe, yazlık bulunduğu konuma, büyüklüğüne, özelliklerine ve piyasa değerlerine bağlı olarak değişir. Öncelikle yazlık almak istediğiniz bölgedeki yazlık fiyatlarını araştırarak uygun bir bütçe belirlemelisiniz."
+    },
+    {
+        "Id": 94,
+        "Soru": "yazlık almak için gereken belgeler nelerdir",
+        "Cevap": "Yazlık almak için gereken belgeler arasında kimlik belgesi, tapu sicil kaydı, tapu harcı dekontu, satış sözleşmesi gibi belgeler bulunabilir. Ayrıca, kredi kullanılacaksa gelir belgesi, ipotek belgesi ve kredi başvuru formu gibi ek belgeler de gerekebilir."
+    },
+    {
+        "Id": 95,
+        "Soru": "yazlık almak için kredi kullanmak mantıklı mıdır",
+        "Cevap": "Yazlık almak için kredi kullanmak mantıklı olabilir ancak bunun kararı kişisel tercihlerinize, finansal durumunuza ve yatırım amacınıza bağlıdır. Kredi kullanarak yazlık almanın avantajları arasında hemen mülk sahibi olma ve düşük faiz oranlarından yararlanma bulunabilir."
+    },
+    {
+        "Id": 96,
+        "Soru": "konut almanın avantajları nelerdir",
+        "Cevap": "Konut almanın avantajları arasında kendi mülk sahibi olma, istikrarlı bir yaşam ortamı sağlama, yatırım yapma ve değer artışı potansiyeli elde etme, kira ödemek yerine kendi evinizde yaşama özgürlüğüne sahip olma, vergi avantajlarından yararlanma gibi unsurlar bulunur."
+    },
+    {
+        "Id": 97,
+        "Soru": "yazlık almanın avantajları nelerdir",
+        "Cevap": "Yazlık almanın avantajları arasında dinlenme ve tatil amaçlı kullanma imkanı, şehir hayatından uzaklaşarak doğa ile iç içe olma fırsatı, stresten uzaklaşma ve rahatlama, alternatif bir gelir kaynağı elde etme potansiyeli, yaz mevsiminde sık sık tatil yapabilme gibi unsurlar bulunur."
+    },
+    {
+        "Id": 98,
+        "Soru": "arsa almanın avantajları nelerdir",
+        "Cevap": "Arsa almanın avantajları arasında uzun vadeli bir yatırım yapma fırsatı, arazi değerinin zamanla artmasıyla kar elde etme potansiyeli, geliştirme veya yeniden planlama imkanı, özgün bir ev veya işyeri inşa etme fırsatı, arsa sahibi olmanın prestij sağlaması gibi unsurlar bulunur."
+    },
+    {
+        "Id": 99,
+        "Soru": "ev satın almanın dezavantajları nelerdir",
+        "Cevap": "Ev satın almanın dezavantajları arasında yüksek maliyet, kredi geri ödeme yükümlülüğü, bakım ve onarım masrafları, taşınma ve yer değiştirme zorlukları, sabit bir yaşam yeri seçiminin getirdiği esneklik eksikliği gibi unsurlar bulunur."
+    },
+    {
+        "Id": 100,
+        "Soru": "ev satın almak için hangi kredi türleri kullanılabilir",
+        "Cevap": "Ev satın almak için kullanılan kredi türleri arasında konut kredisi, ipotekli kredi, sabit faizli kredi ve değişken faizli kredi gibi seçenekler bulunabilir. Bu kredi türleri arasından en uygun olanı tercih etmek kişisel tercihlerinize ve finansal durumunuza bağlıdır."
+    },
+    {
+        "Id": 101,
+        "Soru": "ev satın alırken nelere dikkat etmeliyim",
+        "Cevap": "Ev satın alırken dikkat etmeniz gerekenler arasında konum, fiziksel durum, altyapı olanakları, fiyat, komşular, çevre faktörleri, güvenlik durumu, ulaşım imkanları ve gelecek değer artış potansiyeli gibi unsurlar bulunur."
+    },
+    {
+        "Id": 102,
+        "Soru": "ev satın alırken vergi avantajlarından nasıl yararlanabilirim",
+        "Cevap": "Ev satın alırken vergi avantajlarından yararlanmak için öncelikle vergi mevzuatını ve güncel düzenlemeleri takip etmek önemlidir. Ev sahibi olarak emlak vergisi, kira geliri vergisi, gayrimenkul satış kazancı vergisi gibi vergi kalemlerinden etkilenirsiniz. Vergi avantajlarından tam olarak yararlanabilmek için bir vergi danışmanına danışmanız önerilir."
+    },
+    {
+        "Id": 103,
+        "Soru": "ev satın alırken nasıl bir konum tercih etmeliyim",
+        "Cevap": "Ev satın alırken tercih edilecek konum, kişisel tercihlere, ihtiyaçlara ve bütçeye bağlıdır. Ancak genel olarak, alışveriş merkezlerine, okullara, hastanelere, ulaşım olanaklarına yakın, güvenli ve gelişen bir bölge tercih edilir. Konum seçimi, evinizin değerini ve yaşam kalitenizi önemli ölçüde etkiler."
+    },
+    {
+        "Id": 104,
+        "Soru": "ev satın almanın maliyetleri nelerdir",
+        "Cevap": "Ev satın almanın maliyetleri arasında satış fiyatı, tapu harçları, vergiler, sigorta masrafları, kredi masrafları, tapu ve tescil işlemleri ücretleri, emlakçı komisyonu gibi unsurlar bulunur. Ayrıca, evin fiziksel durumu ve bakım gereksinimleri de ek maliyetler doğurabilir."
+    },
+    {
+        "Id": 105,
+        "Soru": "ev satın alırken hangi belgelere ihtiyacım var",
+        "Cevap": "Ev satın alırken ihtiyaç duyabileceğiniz belgeler arasında kimlik belgesi, gelir belgesi, tapu sicil kaydı, tapu harcı dekontu, satış sözleşmesi, ipotek belgesi gibi belgeler bulunabilir. Detaylı bilgi için bir emlak danışmanından veya banka yetkilisinden yardım alabilirsiniz."
+    },
+    {
+        "Id": 106,
+        "Soru": "ev satın almak için ne kadar bir bütçe ayırmalıyım",
+        "Cevap": "Ev satın almak için ayırmanız gereken bütçe, tercih ettiğiniz konuma, evin büyüklüğüne, özelliklerine ve genel piyasa koşullarına bağlı olarak değişir. Öncelikle bütçenizi belirleyerek ve piyasayı araştırarak ne kadarlık bir bütçe ayırmanız gerektiğini belirleyebilirsiniz."
+    },
+    {
+        "Id": 107,
+        "Soru": "ev satın almanın riskleri nelerdir",
+        "Cevap": "Ev satın almanın riskleri arasında değer kaybı, öngörülmeyen maliyetler, kredi geri ödeme zorlukları, konut piyasasındaki dalgalanmalar, beklenmedik sorunlar ve taşınma maliyetleri gibi unsurlar bulunur. Bu risklerden korunmak için dikkatli bir araştırma yapmak ve uzman danışmanlardan destek almak önemlidir."
+    },
+    {
+        "Id": 108,
+        "Soru": "ev satın almak için en uygun zaman ne zaman olabilir",
+        "Cevap": "Ev satın almak için en uygun zaman genellikle piyasa koşullarına ve kişisel tercihlere bağlıdır. Ancak genel olarak, emlak piyasasındaki durgunluk dönemleri veya faiz oranlarının düşük olduğu zamanlar, ev satın almak için daha uygun olabilir."
+    },
+    {
+        "Id": 109,
+        "Soru": "ev kiralamak hangi durumlarda daha avantajlı olabilir",
+        "Cevap": "Ev kiralamak, taşınma sıklığının yüksek olduğu durumlarda, belirsiz bir süre için bir yerde kalmayı tercih edenlerde veya maddi durumu ev satın almaya uygun olmayanlarda daha avantajlı olabilir."
+    },
+    {
+        "Id": 110,
+        "Soru": "ev kiralamak için gerekli belgeler nelerdir",
+        "Cevap": "Ev kiralamak için gerekli belgeler arasında kimlik belgesi, gelir belgesi veya kefil beyanı, kira sözleşmesi gibi belgeler bulunabilir. Ayrıca, bazı durumlarda kira depozitosu veya kefil olacak birinin belgesi de istenebilir."
+    },
+    {
+        "Id": 111,
+        "Soru": "ev kiralamak için uygun bir bütçe ne kadar olmalıdır",
+        "Cevap": "Ev kiralamak için uygun bir bütçe, kiralamayı düşündüğünüz eve, bölgeye ve yaşam standartlarına bağlı olarak değişir. Genel olarak, aylık gelirinizin %30-40'ını kira ödemelerine ayırmak uygun olabilir."
+    },
+    {
+        "Id": 112,
+        "Soru": "ev kiralamak için nelere dikkat etmeliyim",
+        "Cevap": "Ev kiralamak için dikkat etmeniz gerekenler arasında kira sözleşmesinin detayları, kira bedeli ve ödeme şartları, evin durumu ve eksiklikleri, ev sahibi ile iletişim şekli, kontrat süresi ve kira artışı gibi konular bulunmaktadır."
+    },
+    {
+        "Id": 113,
+        "Soru": "ev kiralamak için hangi konumları tercih etmeliyim",
+        "Cevap": "Ev kiralamak için tercih edilecek konum, kişisel tercihlere, iş veya okul yerine ve günlük ihtiyaçlara bağlıdır. Genellikle, ulaşım olanaklarına yakın, güvenli ve sosyal olanaklara sahip bölgeler tercih edilir."
+    },
+    {
+        "Id": 114,
+        "Soru": "ev kiralamak için en uygun zaman ne zaman olabilir",
+        "Cevap": "Ev kiralamak için en uygun zaman genellikle piyasa koşullarına ve kişisel tercihlere bağlıdır. Ancak genel olarak, durgunluk dönemleri veya kış mevsimi gibi az talep olan dönemler, kiralamak için daha uygun olabilir."
+    },
+    {
+        "Id": 115,
+        "Soru": "ev kiralamak için kredi kullanmak mantıklı mıdır",
+        "Cevap": "Ev kiralamak için genellikle kredi kullanmak mantıklı değildir çünkü kredi ödemeleri, kiralamadan elde edilen gelirle karşılanamaz. Ancak bazı durumlarda kira depozitosu için geçici olarak kredi kullanılabilir."
+    },
+    {
+        "Id": 116,
+        "Soru": "ev kiralamak için nelere dikkat etmeliyim",
+        "Cevap": "Ev kiralamak için dikkat etmeniz gerekenler arasında kira sözleşmesinin detayları, kira bedeli ve ödeme şartları, evin durumu ve eksiklikleri, ev sahibi ile iletişim şekli, kontrat süresi ve kira artışı gibi konular bulunmaktadır."
+    },
+    {
+        "Id": 117,
+        "Soru": "ev kiralamak için gereken belgeler nelerdir",
+        "Cevap": "Ev kiralamak için gereken belgeler arasında kimlik belgesi, gelir belgesi veya kefil beyanı, kira sözleşmesi gibi belgeler bulunabilir. Ayrıca, bazı durumlarda kira depozitosu veya kefil olacak birinin belgesi de istenebilir."
+    },
+    {
+        "Id": 118,
+        "Soru": "ev kiralamak için nelere dikkat etmeliyim",
+        "Cevap": "Ev kiralamak için dikkat etmeniz gerekenler arasında kira sözleşmesinin detayları, kira bedeli ve ödeme şartları, evin durumu ve eksiklikleri, ev sahibi ile iletişim şekli, kontrat süresi ve kira artışı gibi konular bulunmaktadır."
+    },
+    {
+        "Id": 119,
+        "Soru": "emlak danışmanı nasıl seçilir",
+        "Cevap": "Emlak danışmanı seçerken referanslarına, deneyimine, piyasa bilgisine, iletişim becerilerine ve dürüstlüğüne dikkat etmek önemlidir. Ayrıca, danışman ile uyumlu bir çalışma ilişkisi kurmak da başarılı bir emlak işlemi için önemlidir."
+    },
+    {
+        "Id": 120,
+        "Soru": "emlak işlemlerinde dikkat edilmesi gerekenler nelerdir",
+        "Cevap": "Emlak işlemlerinde dikkat edilmesi gerekenler arasında satış veya kiralama sözleşmesinin detaylarına dikkat etmek, evin fiziksel durumunu kontrol etmek, tapu ve sicil kayıtlarını incelemek, vergi ve harçların ödenip ödenmediğini kontrol etmek gibi unsurlar bulunur."
+    },
+    {
+        "Id": 121,
+        "Soru": "emlak işlemleri için ne kadar bir komisyon ödenir",
+        "Cevap": "Emlak işlemleri için ödenecek komisyon oranı, genellikle emlak danışmanı ile müşteri arasında yapılan anlaşmaya bağlıdır. Bu oran genellikle satış veya kiralama bedelinin belli bir yüzdesi olarak belirlenir ve piyasa koşullarına göre değişebilir."
+    },
+    {
+        "Id": 122,
+        "Soru": "emlak işlemleri için neden bir avukat tutulmalıdır",
+        "Cevap": "Emlak işlemleri karmaşık olabilir ve yasal belgeleri anlamak ve doğru şekilde hazırlamak önemlidir. Bir avukat tutmak, tapu işlemlerinin doğru şekilde yapılmasını sağlayabilir, sözleşme koşullarını gözden geçirebilir ve müşteriyi yasal risklerden koruyabilir."
+    },
+    {
+        "Id": 123,
+        "Soru": "emlak işlemleri için hangi vergiler ödenir",
+        "Cevap": "Emlak işlemleri sırasında ödenmesi gereken vergiler arasında emlak vergisi, tapu harcı, KDV, gelir vergisi gibi çeşitli vergiler bulunabilir. Vergi oranları ve ödeme şekilleri, ülkenin ve yerel yönetimlerin vergi kanunlarına bağlı olarak değişebilir."
+    },
+    {
+        "Id": 124,
+        "Soru": "emlak işlemleri için hangi belgelere ihtiyaç duyulur",
+        "Cevap": "Emlak işlemleri için ihtiyaç duyulan belgeler arasında kimlik belgesi, tapu sicil kaydı, kira sözleşmesi, tapu harcı dekontu, satış veya kira sözleşmesi gibi belgeler bulunabilir. Ayrıca, bazı durumlarda kefil beyanı veya gelir belgesi de istenebilir."
+    },
+    {
+        "Id": 125,
+        "Soru": "emlak işlemleri sırasında nelere dikkat edilmeliyim",
+        "Cevap": "Emlak işlemleri sırasında dikkat edilmesi gerekenler arasında sözleşme detaylarını anlamak, ödeme koşullarını belirlemek, tapu kayıtlarını kontrol etmek, varsa ipotek durumunu öğrenmek, vergi ve harçları ödemek gibi unsurlar bulunur."
+    },
+    {
+        "Id": 126,
+        "Soru": "emlak işlemleri için ne zaman bir avukat tutulmalıdır",
+        "Cevap": "Emlak işlemleri karmaşık olabilir ve yasal belgeleri anlamak ve doğru şekilde hazırlamak önemlidir. Bir avukat tutmak, tapu işlemlerinin doğru şekilde yapılmasını sağlayabilir, sözleşme koşullarını gözden geçirebilir ve müşteriyi yasal risklerden koruyabilir."
+    },
+    {
+        "Id": 130,
+        "Soru": "ev satın almak için hangi konumları tercih etmeliyim",
+        "Cevap": "Ev satın almak için tercih edilecek konum, kişisel tercihlere, iş veya okul yerine ve günlük ihtiyaçlara bağlıdır. Genellikle, ulaşım olanaklarına yakın, güvenli ve sosyal olanaklara sahip bölgeler tercih edilir."
+    },
+    {
+        "Id": 131,
+        "Soru": "ev satın almak için ne kadar bir bütçe ayırmalıyım",
+        "Cevap": "Ev satın almak için ayırmanız gereken bütçe, tercih ettiğiniz konuma, evin büyüklüğüne, özelliklerine ve genel piyasa koşullarına bağlı olarak değişir. Öncelikle bütçenizi belirleyerek ve piyasayı araştırarak ne kadarlık bir bütçe ayırmanız gerektiğini belirleyebilirsiniz."
+    },
+    {
+        "Id": 132,
+        "Soru": "ev satın almanın avantajları nelerdir",
+        "Cevap": "Ev satın almanın avantajları arasında uzun vadeli yatırım yapma imkanı, kira ödemek yerine kendi evinizde oturma özgürlüğü, evin değerinin artmasıyla birlikte kazanç elde etme potansiyeli, kişisel tercihlerinize uygun evi seçme imkanı gibi unsurlar bulunur."
+    },
+    {
+        "Id": 133,
+        "Soru": "ev satın almak için en uygun zaman ne zaman olabilir",
+        "Cevap": "Ev satın almak için en uygun zaman genellikle piyasa koşullarına ve kişisel tercihlere bağlıdır. Ancak genel olarak, emlak piyasasındaki durgunluk dönemleri veya faiz oranlarının düşük olduğu zamanlar, ev satın almak için daha uygun olabilir."
+    },
+    {
+        "Id": 134,
+        "Soru": "ev satın alırken nelere dikkat etmeliyim",
+        "Cevap": "Ev satın alırken dikkat edilmesi gereken birçok faktör bulunmaktadır. Bunlar arasında evin konumu, fiyatı, yaş durumu, yapı kalitesi, çevre düzenlemesi, altyapı olanakları ve gelecekteki değer artış potansiyeli gibi unsurlar yer almaktadır."
+    },
+    {
+        "Id": 135,
+        "Soru": "ev satın alırken hangi belgelere ihtiyacım var",
+        "Cevap": "Ev satın alırken ihtiyaç duyabileceğiniz belgeler arasında kimlik belgesi, gelir belgesi, tapu sicil kaydı, tapu harcı dekontu, satış sözleşmesi, ipotek belgesi gibi belgeler bulunabilir. Detaylı bilgi için bir emlak danışmanından veya banka yetkilisinden yardım alabilirsiniz."
+    },
+    {
+        "Id": 136,
+        "Soru": "ev satın almak için ne zaman bir avukat tutulmalıdır",
+        "Cevap": "Ev satın almak karmaşık bir süreç olabilir ve yasal belgeleri doğru şekilde hazırlamak ve yorumlamak önemlidir. Bir avukat tutmak, tapu işlemlerinin doğru şekilde yapılmasını sağlayabilir, sözleşme koşullarını gözden geçirebilir ve müşteriyi yasal risklerden koruyabilir."
+    },
+    {
+        "Id": 137,
+        "Soru": "ev satın alırken vergi avantajlarından nasıl yararlanabilirim",
+        "Cevap": "Ev satın alırken vergi avantajlarından yararlanmak için öncelikle vergi mevzuatını ve güncel düzenlemeleri takip etmek önemlidir. Ev sahibi olarak emlak vergisi, kira geliri vergisi, gayrimenkul satış kazancı vergisi gibi vergi kalemlerinden etkilenirsiniz. Vergi avantajlarından tam olarak yararlanabilmek için bir vergi danışmanına danışmanız önerilir."
+    },
+    {
+        "Id": 138,
+        "Soru": "ev satın alırken finansman seçenekleri nelerdir",
+        "Cevap": "Ev satın alırken finansman seçenekleri arasında nakit ödeme, banka kredisi, konut kredisi, ipotekli kredi gibi seçenekler bulunabilir. Hangi finansman yönteminin size uygun olduğunu belirlemek için finansal durumunuzu değerlendirebilir ve bir finansal danışmandan destek alabilirsiniz."
+    },
+    {
+        "Id": 139,
+        "Soru": "ev satın alırken en sık yapılan hatalar nelerdir",
+        "Cevap": "Ev satın alırken en sık yapılan hatalar arasında acele karar verme, bütçe dışında hareket etme, tapu ve sözleşme detaylarını ihmal etme, evin gelecekteki değer artış potansiyelini göz ardı etme, konum ve altyapı olanaklarına dikkat etmeme gibi hatalar bulunur."
+    },
+    {
+        "Id": 140,
+        "Soru": "ev kiralamak için nelere dikkat etmeliyim",
+        "Cevap": "Ev kiralamak için dikkat etmeniz gerekenler arasında kira sözleşmesinin detayları, kira bedeli ve ödeme şartları, evin durumu ve eksiklikleri, ev sahibi ile iletişim şekli, kontrat süresi ve kira artışı gibi konular bulunmaktadır."
+    },
+    {
+        "Id": 141,
+        "Soru": "kiralamak için uygun bir ev nasıl seçilir",
+        "Cevap": "Kiralamak için uygun bir ev seçerken, öncelikle ihtiyaçlarınızı ve tercihlerinizi belirlemek önemlidir. Sonra, bütçenize uygun olan bir ev bulmak için araştırma yapabilir, evin konumunu, büyüklüğünü, durumunu ve çevresini değerlendirebilirsiniz."
+    },
+    {
+        "Id": 142,
+        "Soru": "kiralamak için en uygun zaman ne zaman olabilir",
+        "Cevap": "Kiralamak için en uygun zaman genellikle piyasa koşullarına ve kişisel tercihlere bağlıdır. Ancak genel olarak, emlak piyasasındaki durgunluk dönemleri veya kış mevsimi gibi az talep olan dönemler, kiralamak için daha uygun olabilir."
+    },
+    {
+        "Id": 143,
+        "Soru": "evin konumu kiralamada ne kadar önemlidir",
+        "Cevap": "Evin konumu, kiralamada oldukça önemlidir. İş yeri, okul, alışveriş merkezi gibi önemli yerlere olan uzaklık, ulaşım olanakları, çevredeki güvenlik durumu gibi faktörler evin konforunu ve yaşam kalitesini etkiler."
+    },
+    {
+        "Id": 144,
+        "Soru": "kiralamak için gerekli belgeler nelerdir",
+        "Cevap": "Ev kiralamak için gerekli belgeler arasında kimlik belgesi, gelir belgesi veya kefil beyanı, kira sözleşmesi gibi belgeler bulunabilir. Ayrıca, bazı durumlarda kira depozitosu veya kefil olacak birinin belgesi de istenebilir."
+    },
+    {
+        "Id": 145,
+        "Soru": "kiralamak için ne kadar bir bütçe ayırmalıyım",
+        "Cevap": "Kiralamak için ayırmanız gereken bütçe, tercih ettiğiniz konuma, evin büyüklüğüne, özelliklerine ve genel piyasa koşullarına bağlı olarak değişir. Öncelikle bütçenizi belirleyerek ve piyasayı araştırarak ne kadarlık bir bütçe ayırmanız gerektiğini belirleyebilirsiniz."
+    },
+    {
+        "Id": 146,
+        "Soru": "kiralamak için hangi konumları tercih etmeliyim",
+        "Cevap": "Kiralamak için tercih edilecek konum, kişisel tercihlere, iş veya okul yerine ve günlük ihtiyaçlara bağlıdır. Genellikle, ulaşım olanaklarına yakın, güvenli ve sosyal olanaklara sahip bölgeler tercih edilir."
+    },
+    {
+        "Id": 147,
+        "Soru": "kiralamak için ne zaman bir emlak danışmanına başvurmalıyım",
+        "Cevap": "Kiralamak için bir emlak danışmanına başvurmak isteyebilirsiniz, özellikle de piyasadaki seçenekleri değerlendirmekte zorlanıyorsanız veya kiralamak istediğiniz bölgede bilgi eksikliğiniz varsa. Bir emlak danışmanı size uygun evleri bulmanıza ve kira sürecinde size rehberlik etmenize yardımcı olabilir."
+    },
+    {
+        "Id": 148,
+        "Soru": "kiralamak için finansman seçenekleri nelerdir",
+        "Cevap": "Kiralamak için finansman seçenekleri arasında nakit ödeme veya kredi kartı ile ödeme gibi seçenekler bulunabilir. Kiralama sürecinde genellikle bir depozito ödenmesi gerekebilir. Kiralama işlemi genellikle aylık kira bedelinin belirli bir miktarı kadar bir depozito gerektirir."
+    },
+    {
+        "Id": 149,
+        "Soru": "kiralamak için ev sahibiyle nasıl iletişim kurmalıyım",
+        "Cevap": "Kiralamak için ev sahibiyle iletişim kurarken nazik ve anlayışlı olmak önemlidir. Kiralama sürecindeki beklentilerinizi net bir şekilde iletmek, sorularınızı sormak ve anlaşma şartlarını belirlemek için açık ve dürüst bir iletişim kurmak önemlidir."
+    },
+    {
+        "Id": 150,
+        "Soru": "evimi kiralamak için nelere dikkat etmeliyim",
+        "Cevap": "Evini kiralamak isteyen bir ev sahibi olarak dikkat etmeniz gerekenler arasında güvenilir kiracı seçimi, kira sözleşmesinin detaylarının netleştirilmesi, evin bakımının düzenli olarak yapılması ve yasal gerekliliklere uygun olarak hareket etmek bulunur."
+    },
+    {
+        "Id": 151,
+        "Soru": "kiracı seçerken nelere dikkat etmeliyim",
+        "Cevap": "Kiracı seçerken dikkat etmeniz gerekenler arasında kiracının referansları, gelir durumu, önceki kiralama geçmişi, kira ödeme geçmişi, evcil hayvan bulundurma durumu gibi faktörler bulunur. Güvenilir bir kiracı seçmek uzun vadeli bir kira ilişkisi için önemlidir."
+    },
+    {
+        "Id": 152,
+        "Soru": "kira sözleşmesi nasıl hazırlanmalıdır",
+        "Cevap": "Kira sözleşmesi hazırlanırken her iki tarafın haklarını ve sorumluluklarını koruyacak şekilde detaylı bir şekilde hazırlanmalıdır. Kira bedeli, ödeme şartları, depozito miktarı, kira süresi, evin durumu ve eksiklikleri gibi detaylar sözleşmede belirtilmelidir."
+    },
+    {
+        "Id": 153,
+        "Soru": "evin bakımı nasıl düzenlenmelidir",
+        "Cevap": "Kendi evini kiralamak isteyen bir ev sahibi olarak, evin bakımının düzenli olarak yapılması önemlidir. Kiracıya temiz ve bakımlı bir ev sunmak, hem kiracı memnuniyetini artırır hem de evin değerini korur."
+    },
+    {
+        "Id": 154,
+        "Soru": "kira geliri nasıl belirlenmelidir",
+        "Cevap": "Kira geliri, evin konumuna, büyüklüğüne, durumuna, sağladığı olanaklara ve piyasa koşullarına bağlı olarak belirlenir. Genellikle benzer evlerin kira fiyatlarına göre rekabetçi bir kira bedeli belirlenmelidir."
+    },
+    {
+        "Id": 155,
+        "Soru": "kira süresi ne kadar olmalıdır",
+        "Cevap": "Kira süresi, ev sahibi ile kiracı arasında anlaşmaya bağlı olarak belirlenir. Genellikle 1 yıl veya daha uzun süreli kira sözleşmeleri tercih edilir. Ancak kısa vadeli kira sözleşmeleri de bazı durumlarda tercih edilebilir."
+    },
+    {
+        "Id": 156,
+        "Soru": "kiracıyla nasıl iletişim kurmalıyım",
+        "Cevap": "Kiracıyla iletişim kurarken nazik, anlayışlı ve profesyonel olmak önemlidir. Kiracının ihtiyaçlarını dinlemek, sorularına zamanında cevap vermek ve evle ilgili önemli bilgileri paylaşmak, sağlıklı bir kira ilişkisi sürdürmek için önemlidir."
+    },
+    {
+        "Id": 157,
+        "Soru": "kira ödemeleri nasıl alınmalıdır",
+        "Cevap": "Kira ödemeleri genellikle her ay belirli bir tarihte nakit, banka havalesi veya otomatik ödeme yöntemiyle alınabilir. Kiracıyla ödeme yöntemi ve ödeme tarihi konusunda önceden anlaşmak önemlidir ve bu detaylar kira sözleşmesinde belirtilmelidir."
+    },
+    {
+        "Id": 158,
+        "Soru": "evin sigortalanması gereklidir mi",
+        "Cevap": "Evin sigortalanması, hem ev sahibi hem de kiracı için önemlidir. Ev sahibi olarak, evin yangın, hırsızlık, su baskını gibi risklere karşı sigortalanması önemlidir. Kiracı ise kira dönemi boyunca eşyalarını ve kişisel mülklerini sigortalatmalıdır."
+    },
+    {
+        "Id": 159,
+        "Soru": "kiracı evi terk ettiğinde yapılması gerekenler nelerdir",
+        "Cevap": "Kiracı evi terk ettiğinde, evin durumunu kontrol etmek, eksiklikleri tespit etmek ve gerekli bakım ve onarımları yapmak önemlidir. Kiracıdan depozito kullanılarak yapılması gereken masraflar karşılanabilir, ancak yasal prosedürlere uygun olarak hareket etmek önemlidir."
+    },
+    {
+        "Id": 160,
+        "Soru": "kira sözleşmesi nedir ve içeriği nasıldır",
+        "Cevap": "Kira sözleşmesi, kiracı ile ev sahibi arasında yapılan ve kiralanacak olan gayrimenkulün kullanımı ve kiralama koşullarını belirleyen bir sözleşmedir. Genellikle kira bedeli, ödeme şartları, kira süresi, depozito miktarı, kiracının ve ev sahibinin hak ve sorumlulukları gibi detaylar sözleşmede yer alır."
+    },
+    {
+        "Id": 161,
+        "Soru": "kira sözleşmesi nasıl hazırlanır",
+        "Cevap": "Kira sözleşmesi hazırlanırken, öncelikle tarafların kimlik bilgileri, kiralanan gayrimenkulün adresi ve özellikleri gibi temel bilgiler belirtilir. Sonra kira bedeli, ödeme şartları, kira süresi, depozito miktarı gibi detaylar belirlenir. Sözleşme metni tarafların anlaşması doğrultusunda hazırlanır ve imzalanır."
+    },
+    {
+        "Id": 162,
+        "Soru": "kira sözleşmesi ne kadar geçerlidir",
+        "Cevap": "Kira sözleşmesinin geçerliliği, tarafların anlaşmasına ve yasal düzenlemelere bağlıdır. Genellikle kira sözleşmeleri belirli bir süre için yapılan sözleşmelerdir, ancak tarafların anlaşmasıyla süre uzatılabilir veya yenilenebilir."
+    },
+    {
+        "Id": 163,
+        "Soru": "kira sözleşmesinde kiracı ve ev sahibinin hakları nelerdir",
+        "Cevap": "Kira sözleşmesinde kiracı ve ev sahibinin hakları, genellikle kira bedeli ve ödeme şartları, kira süresi, evin kullanımı ve bakımıyla ilgili haklar, depozito kullanımı ve iadesi gibi konuları kapsar. Ayrıca, kiracının ve ev sahibinin yasal hakları yasal düzenlemelere bağlı olarak belirlenir."
+    },
+    {
+        "Id": 164,
+        "Soru": "kira sözleşmesi nasıl sona erer",
+        "Cevap": "Kira sözleşmesi, belirlenen kira süresinin sonunda otomatik olarak sona erer veya tarafların karşılıklı anlaşmasıyla sona erdirilebilir. Ayrıca, belirli koşullar altında sözleşmenin feshi de mümkündür, ancak bu durumlar yasal düzenlemelere bağlı olarak değişebilir."
+    },
+    {
+        "Id": 165,
+        "Soru": "kira sözleşmesi neleri içermelidir",
+        "Cevap": "Kira sözleşmesi, kiralanacak olan gayrimenkulün detayları, kira bedeli ve ödeme şartları, kira süresi, depozito miktarı ve kullanımı, ev sahibinin ve kiracının hak ve sorumlulukları gibi önemli bilgileri içermelidir."
+    },
+    {
+        "Id": 166,
+        "Soru": "kira sözleşmesi nasıl iptal edilir",
+        "Cevap": "Kira sözleşmesi, tarafların karşılıklı anlaşmasıyla veya yasal düzenlemelere uygun olarak fesih edilir. Fesih bildirimi genellikle yazılı olarak yapılır ve belirli bir süre öncesinden taraf diğerine bildirilir. Yasal süreç ve gereklilikler ülke ve bölgeye göre değişebilir."
+    },
+    {
+        "Id": 167,
+        "Soru": "kira sözleşmesi yenilenebilir mi",
+        "Cevap": "Kira sözleşmesi, tarafların anlaşmasıyla ve yasal düzenlemelere uygun olarak yenilenebilir. Yenileme koşulları, kira süresi bitmeden önce taraflar arasında belirlenir ve yeni bir sözleşme imzalanarak yenileme işlemi gerçekleştirilir."
+    },
+    {
+        "Id": 168,
+        "Soru": "kira sözleşmesi elektronik ortamda geçerli midir",
+        "Cevap": "Kira sözleşmesi, tarafların karşılıklı onayıyla elektronik ortamda da geçerli olabilir. Ancak bazı ülkelerde yasal düzenlemeler gereği belirli koşulların sağlanması gerekebilir, bu nedenle yasal gerekliliklerin dikkatlice incelenmesi önemlidir."
+    },
+    {
+        "Id": 169,
+        "Soru": "kira sözleşmesi nasıl güncellenir",
+        "Cevap": "Kira sözleşmesi güncellenirken, tarafların anlaşması ve yasal düzenlemelere uygun olarak yeni detaylar eklenir veya mevcut detaylar değiştirilir. Güncelleme işlemi genellikle yazılı bir anlaşma ile yapılır ve tarafların imzasını gerektirir."
+    },
+    {
+        "Id": 170,
+        "Soru": "kendi evimi satmak için nereden başlamalıyım",
+        "Cevap": "Kendi evinizi satmak için öncelikle bir emlak danışmanıyla iletişime geçebilir ve evinizin değerini belirlemek için bir değerleme yaptırabilirsiniz. Ardından evinizin pazarlanması için uygun bir strateji belirleyebilir ve potansiyel alıcılarla iletişime geçebilirsiniz."
+    },
+    {
+        "Id": 171,
+        "Soru": "evin değerini nasıl belirlemeliyim",
+        "Cevap": "Evin değerini belirlemek için bir emlak danışmanıyla görüşebilir veya çevredeki benzer evlerin satış fiyatlarını araştırarak bir değerleme yapabilirsiniz. Evinizin özelliklerini, konumunu ve piyasa koşullarını göz önünde bulundurarak uygun bir satış fiyatı belirlemelisiniz."
+    },
+    {
+        "Id": 172,
+        "Soru": "evim için uygun bir satış stratejisi nedir",
+        "Cevap": "Eviniz için uygun bir satış stratejisi belirlerken, hedef kitlenizi belirleyin ve pazarlama faaliyetlerinizi buna göre düzenleyin. Ev sahibi olarak, evinizin potansiyel alıcılar için cazip hale gelmesini sağlamak için profesyonel fotoğraflar çektirin, evi düzenleyin ve reklam kampanyaları düzenleyin."
+    },
+    {
+        "Id": 173,
+        "Soru": "evin pazarlanması için en etkili yöntemler nelerdir",
+        "Cevap": "Evin pazarlanması için en etkili yöntemler arasında online ve offline pazarlama stratejileri bulunur. Online olarak, gayrimenkul ilan sitelerinde ve sosyal medyada ilanlar yayınlayabilirsiniz. Offline olarak, emlakçılar aracılığıyla ve açık ev etkinlikleri düzenleyerek evinizi potansiyel alıcılara tanıtabilirsiniz."
+    },
+    {
+        "Id": 174,
+        "Soru": "evin satışı için hangi belgelere ihtiyacım var",
+        "Cevap": "Evin satışı için gerekli belgeler arasında tapu senedi, iskan belgesi, tapu harcı dekontu, vergi borcu beyanı gibi belgeler bulunur. Ayrıca, evle ilgili diğer detayları içeren bir satış sözleşmesi de hazırlamanız gerekebilir."
+    },
+    {
+        "Id": 175,
+        "Soru": "evin satış sürecinde nelere dikkat etmeliyim",
+        "Cevap": "Evin satış sürecinde dikkat etmeniz gerekenler arasında potansiyel alıcılarla etkili iletişim kurmak, teklifleri değerlendirmek, satış sözleşmesini dikkatlice incelemek ve yasal süreçleri takip etmek bulunur. Ayrıca, evin durumunu korumak ve pazarlama faaliyetlerini düzenli olarak güncellemek de önemlidir."
+    },
+    {
+        "Id": 176,
+        "Soru": "evin satışı için ne kadar bir bütçe ayırmalıyım",
+        "Cevap": "Evin satışı için ayırmanız gereken bütçe, emlakçı ücretleri, reklam masrafları, ev düzenleme ve bakım maliyetleri gibi faktörlere bağlı olarak değişir. Genellikle satış fiyatının belirli bir yüzdesini bu masraflara ayırmak uygun olabilir."
+    },
+    {
+        "Id": 177,
+        "Soru": "evin satışında fiyat pazarlığı nasıl yapılır",
+        "Cevap": "Evin satışında fiyat pazarlığı yaparken, emlak danışmanınızın tavsiyelerini dikkate alın ve potansiyel alıcıların tekliflerini değerlendirin. İyi bir pazarlık stratejisi belirleyin ve alıcıların taleplerini dikkatlice gözden geçirin."
+    },
+    {
+        "Id": 178,
+        "Soru": "evin satışı için hangi mevsim daha uygun olabilir",
+        "Cevap": "Evin satışı için mevsimlerin etkisi piyasa koşullarına ve bölgeye bağlı olarak değişir. Genellikle ilkbahar ve yaz ayları, ev satışının daha aktif olduğu dönemlerdir çünkü hava koşulları daha elverişlidir ve alıcılar evleri daha iyi değerlendirebilir."
+    },
+    {
+        "Id": 179,
+        "Soru": "evin satışı için profesyonel bir emlak danışmanıyla çalışmak neden önemlidir",
+        "Cevap": "Profesyonel bir emlak danışmanıyla çalışmak, evinizi pazarlama sürecini kolaylaştırabilir ve daha hızlı bir satış gerçekleştirebilir. Emlak danışmanları, pazarlama stratejileri konusunda uzmandırlar ve potansiyel alıcılarla etkili bir iletişim kurabilirler."
+    },
+    {
+        "Id": 180,
+        "Soru": "evin satışı için hangi belgeler gereklidir",
+        "Cevap": "Evin satışı için gereken belgeler arasında tapu senedi, iskan belgesi, vergi borcu beyanı, tapu harcı dekontu gibi belgeler bulunur. Ayrıca, evle ilgili detayları içeren bir satış sözleşmesi de hazırlanmalıdır."
+    },
+    {
+        "Id": 181,
+        "Soru": "evin satış süreci ne kadar sürer",
+        "Cevap": "Evin satış süreci, birçok faktöre bağlı olarak değişir. Piyasa koşulları, evin konumu ve özellikleri, pazarlama stratejisi ve potansiyel alıcıların ilgisi gibi faktörler satış süresini etkiler. Genellikle birkaç hafta ile birkaç ay arasında değişen bir süreçtir."
+    },
+    {
+        "Id": 182,
+        "Soru": "evin satışı için fiyat nasıl belirlenir",
+        "Cevap": "Evin satış fiyatı, birçok faktöre bağlı olarak belirlenir. Evin konumu, büyüklüğü, özellikleri, piyasa koşulları ve bölgesel trendler gibi faktörler dikkate alınarak uygun bir fiyat belirlenir. Genellikle bir emlak danışmanıyla görüşmek ve bir değerleme yapmak en iyi yol olabilir."
+    },
+    {
+        "Id": 183,
+        "Soru": "evin satışı için reklam nasıl yapılır",
+        "Cevap": "Evin satışı için reklam yaparken, çeşitli kanalları kullanabilirsiniz. İnternet ilan siteleri, sosyal medya platformları, emlakçılar aracılığıyla pazarlama, açık ev etkinlikleri gibi yöntemlerle evinizi potansiyel alıcılara tanıtabilirsiniz."
+    },
+    {
+        "Id": 184,
+        "Soru": "evin satış fiyatı üzerinde pazarlık yapılabilir mi",
+        "Cevap": "Evin satış fiyatı üzerinde pazarlık yapılabilir. Potansiyel alıcılar genellikle satış fiyatını düşürmek için pazarlık yaparlar ve satıcılar da bu duruma göre cevap verirler. Ancak pazarlık süreci, tarafların anlaşmasıyla sonuçlanmalıdır."
+    },
+    {
+        "Id": 185,
+        "Soru": "evin satışı için hangi mevsim daha uygun olabilir",
+        "Cevap": "Evin satışı için uygun mevsim, bölgeye ve piyasa koşullarına bağlı olarak değişir. Genellikle ilkbahar ve yaz ayları, ev satışının daha aktif olduğu dönemlerdir çünkü hava koşulları daha elverişlidir ve alıcılar evleri daha iyi değerlendirebilir."
+    },
+    {
+        "Id": 186,
+        "Soru": "evin satışı için hangi özellikler önemlidir",
+        "Cevap": "Evin satışı için önemli olan özellikler arasında konum, büyüklük, durum, iç ve dış özellikler, çevre ve olanaklar gibi faktörler bulunur. Evinizi potansiyel alıcılara çekici hale getirmek için bu özelliklere dikkat etmek önemlidir."
+    },
+    {
+        "Id": 187,
+        "Soru": "evin satışı için hangi hukuki süreçler gereklidir",
+        "Cevap": "Evin satışı için hukuki süreçler arasında tapu devri, satış sözleşmesi, vergi ödemeleri gibi işlemler bulunur. Satış sürecinin yasal olarak doğru ve güvenli bir şekilde tamamlanması için uygun hukuki süreçlerin takip edilmesi önemlidir."
+    },
+    {
+        "Id": 188,
+        "Soru": "evin satışı için hangi vergiler ödenir",
+        "Cevap": "Evin satışı sırasında genellikle tapu harcı, emlak vergisi, gelir vergisi gibi vergiler ödenir. Vergi yükümlülükleri ülke ve bölgeye göre değişebilir, bu nedenle bir vergi danışmanıyla görüşmek önemlidir."
+    },
+    {
+        "Id": 189,
+        "Soru": "evin satışı için emlakçıyla çalışmak neden önemlidir",
+        "Cevap": "Emlakçılar, evinizin pazarlanması ve satış sürecinin yönetilmesi konusunda uzmanlaşmış profesyonellerdir. Evinizi doğru bir şekilde değerlendirirler, uygun alıcıları bulurlar ve satış sürecini etkili bir şekilde yönetirler."
+    },
+    {
+        "Id": 190,
+        "Soru": "evin satışı için hangi ev düzenlemeleri yapılabilir",
+        "Cevap": "Evin satışı için yapılacak düzenlemeler arasında temizlik, boya, tadilat, yenileme gibi işlemler bulunur. Evinizi daha çekici hale getirmek ve potansiyel alıcıların ilgisini çekmek için bazı basit değişiklikler yapabilirsiniz."
+    },
+    {
+        "Id": 191,
+        "Soru": "bir ev satın almak için nereden başlamalıyım",
+        "Cevap": "Bir ev satın almak için öncelikle bütçenizi belirlemeli ve ihtiyaçlarınıza uygun bir ev arayışına başlamalısınız. Bir emlak danışmanıyla görüşebilir, ilan sitelerini ve emlak ofislerini takip edebilirsiniz."
+    },
+    {
+        "Id": 192,
+        "Soru": "bir ev satın alırken nelere dikkat etmeliyim",
+        "Cevap": "Bir ev satın alırken dikkat etmeniz gerekenler arasında evin konumu, büyüklüğü, durumu, çevresel faktörler, altyapı olanakları ve gelecekteki değer artış potansiyeli gibi faktörler bulunur."
+    },
+    {
+        "Id": 193,
+        "Soru": "bir ev kiralamak için hangi belgelere ihtiyacım var",
+        "Cevap": "Bir ev kiralamak için genellikle kimlik belgesi, gelir belgesi veya kefil belgesi, kira sözleşmesi gibi belgeler gereklidir. Kiralama sürecinde ev sahibinin isteyeceği diğer belgeler de olabilir."
+    },
+    {
+        "Id": 194,
+        "Soru": "bir ev kiralamak için ne kadar bir bütçe ayırmalıyım",
+        "Cevap": "Bir ev kiralamak için ayırmanız gereken bütçe, evin konumu, büyüklüğü, durumu ve kira bedeli gibi faktörlere bağlı olarak değişir. Genellikle aylık gelirinizin belirli bir yüzdesini kira bedeline ayırmak uygun olabilir."
+    },
+    {
+        "Id": 195,
+        "Soru": "bir ev kiralamak için hangi kriterlere dikkat etmeliyim",
+        "Cevap": "Bir ev kiralamak için dikkat etmeniz gereken kriterler arasında kira bedeli, konum, evin durumu, altyapı olanakları, çevresel faktörler ve kira sözleşmesinin detayları gibi faktörler bulunur."
+    },
+    {
+        "Id": 196,
+        "Soru": "bir evi kiralamak için emlakçıya komisyon ödemek gerekiyor mu",
+        "Cevap": "Bir evi kiralamak için genellikle kiracılar emlakçıya komisyon ödemezler. Emlakçılar genellikle ev sahiplerinden komisyon alırlar, ancak bu ücret kiracıyı etkilemez."
+    },
+    {
+        "Id": 197,
+        "Soru": "bir ev alırken veya kiralarımken dikkat etmem gereken vergi konuları nelerdir",
+        "Cevap": "Bir ev alırken veya kiralarımken dikkat etmeniz gereken vergi konuları arasında tapu harcı, emlak vergisi, kira geliri vergisi gibi vergiler bulunur. Vergi yükümlülükleri ülke ve bölgeye göre değişebilir, bu nedenle bir vergi danışmanıyla görüşmek önemlidir."
+    },
+    {
+        "Id": 198,
+        "Soru": "bir ev satın alırken veya kiralarımken kredi almak mantıklı mı",
+        "Cevap": "Bir ev satın alırken veya kiralarımken kredi almak, finansal durumunuza ve tercihlerinize bağlı olarak değişir. Kredi almanın avantajları arasında evin hemen alınması veya kiralanması, ancak faiz ve geri ödeme koşullarının dikkatlice değerlendirilmesi önemlidir."
+    },
+    {
+        "Id": 199,
+        "Soru": "bir ev alırken veya kiralarımken hukuki süreçler nelerdir",
+        "Cevap": "Bir ev alırken veya kiralarımken hukuki süreçler arasında tapu devri, kira sözleşmesi, vergi ödemeleri gibi işlemler bulunur. Satın alma veya kiralama sürecinin yasal olarak doğru ve güvenli bir şekilde tamamlanması için uygun hukuki süreçlerin takip edilmesi önemlidir."
+    },
+    {
+        "Id": 200,
+        "Soru": "bir ev satın alırken veya kiralarımken sigorta yaptırmak önemli mi",
+        "Cevap": "Bir ev satın alırken veya kiralarımken sigorta yaptırmak önemlidir. Konut sigortası, evinizi yangın, hırsızlık, doğal afetler gibi risklere karşı korurken, kira sigortası kira gelirinizi korur ve kiracının ödeme yapmaması durumunda sizi güvence altına alır."
+    },
+    {
+        "Id": 201,
+        "Soru": "ev satın alırken dikkat edilmesi gerekenler nelerdir",
+        "Cevap": "Ev satın alırken dikkat edilmesi gerekenler arasında evin konumu, büyüklüğü, durumu, çevresel faktörler, altyapı olanakları ve fiyatı gibi faktörler bulunur. Ayrıca, tapu ve hukuki durum, vergi yükümlülükleri gibi konulara da dikkat etmek önemlidir."
+    },
+    {
+        "Id": 202,
+        "Soru": "evin değerini belirlemede hangi faktörler etkilidir",
+        "Cevap": "Evin değerini belirlemede etkili olan faktörler arasında konum, büyüklük, durum, iç ve dış özellikler, çevresel faktörler, altyapı olanakları, piyasa koşulları ve bölgesel trendler gibi faktörler bulunur."
+    },
+    {
+        "Id": 203,
+        "Soru": "ev kiralarken nelere dikkat etmeliyim",
+        "Cevap": "Ev kiralarken dikkat etmeniz gerekenler arasında kira bedeli, konum, evin durumu, altyapı olanakları, çevresel faktörler ve kira sözleşmesinin detayları gibi faktörler bulunur. Ayrıca, kiracı hakları ve yükümlülükleri konusunda bilgi sahibi olmak da önemlidir."
+    },
+    {
+        "Id": 204,
+        "Soru": "ev satarken hangi belgelere ihtiyacım var",
+        "Cevap": "Ev satarken ihtiyacınız olan belgeler arasında tapu senedi, iskan belgesi, tapu harcı dekontu, vergi borcu beyanı gibi belgeler bulunur. Ayrıca, satış sürecinde kullanılacak olan satış sözleşmesi gibi belgeler de gereklidir."
+    },
+    {
+        "Id": 205,
+        "Soru": "evin satışı ne kadar sürer",
+        "Cevap": "Evin satış süresi birçok faktöre bağlı olarak değişir. Evin konumu, fiyatı, durumu, pazarlama stratejisi ve piyasa koşulları gibi faktörler satış süresini etkiler. Genellikle birkaç hafta ile birkaç ay arasında değişen bir süreçtir."
+    },
+    {
+        "Id": 206,
+        "Soru": "emlakçıyla çalışmanın avantajları nelerdir",
+        "Cevap": "Emlakçıyla çalışmanın avantajları arasında piyasa bilgisine sahip olmaları, pazarlama stratejileri konusunda uzmanlaşmaları, alıcılarla ve satıcılarla etkili iletişim kurmaları, hukuki süreçleri yönetmeleri ve zamandan tasarruf etmenizi sağlamaları bulunur."
+    },
+    {
+        "Id": 207,
+        "Soru": "evin satışı için hangi pazarlama stratejileri kullanılabilir",
+        "Cevap": "Evin satışı için kullanılabilecek pazarlama stratejileri arasında online ilanlar, sosyal medya pazarlaması, açık ev etkinlikleri, broşürler, reklam kampanyaları gibi yöntemler bulunur. Ayrıca, emlakçılar aracılığıyla yapılan pazarlama da etkili olabilir."
+    },
+    {
+        "Id": 208,
+        "Soru": "evin satışı için hangi vergiler ödenir",
+        "Cevap": "Evin satışı sırasında genellikle tapu harcı, emlak vergisi, gelir vergisi gibi vergiler ödenir. Vergi yükümlülükleri ülke ve bölgeye göre değişebilir, bu nedenle bir vergi danışmanıyla görüşmek önemlidir."
+    },
+    {
+        "Id": 209,
+        "Soru": "evin satışında pazarlık yapılabilir mi",
+        "Cevap": "Evin satışında genellikle alıcılar ve satıcılar arasında pazarlık yapılır. Ancak pazarlık süreci, tarafların anlaşmasıyla sonuçlanmalıdır. Pazarlık sürecinde evin değerini, piyasa koşullarını ve tarafların taleplerini dikkate almak önemlidir."
+    },
+    {
+        "Id": 210,
+        "Soru": "evin satışında fiyatı nasıl belirlemeliyim",
+        "Cevap": "Evin satış fiyatını belirlerken evin konumu, büyüklüğü, durumu, iç ve dış özellikleri, çevresel faktörler, piyasa koşulları ve bölgesel trendler gibi faktörleri dikkate alarak uygun bir fiyat belirlemek önemlidir. Bir emlak danışmanıyla görüşmek bu süreçte yardımcı olabilir."
+    },
+    {
+        "Id": 211,
+        "Soru": "emlak nedir",
+        "Cevap": "Emlak, taşınmaz malların (evler, araziler, daireler vb.) genel adıdır. Emlak terimi genellikle gayrimenkul ticareti ve mülkiyeti ile ilişkilendirilir."
+    },
+    {
+        "Id": 212,
+        "Soru": "ev satın almak mı yoksa kiralamak mı daha avantajlıdır",
+        "Cevap": "Ev satın almak veya kiralamak avantajları ve dezavantajları olan farklı seçeneklerdir. Satın almak uzun vadeli yatırım ve mülkiyet sağlarken, kiralamak daha esneklik ve taahhüt gerektirmez. Kararınızı mali durumunuz, yaşam tarzınız ve gelecek planlarınıza göre vermelisiniz."
+    },
+    {
+        "Id": 213,
+        "Soru": "evin değerini belirleyen faktörler nelerdir",
+        "Cevap": "Evin değerini belirleyen faktörler arasında konum, büyüklük, durum, iç ve dış özellikler, çevresel faktörler, altyapı olanakları, piyasa koşulları ve bölgesel trendler gibi faktörler bulunur."
+    },
+    {
+        "Id": 214,
+        "Soru": "evin satış veya kira fiyatını kim belirler",
+        "Cevap": "Evin satış veya kira fiyatını genellikle ev sahibi veya evin mülkiyetini elinde bulunduran kişi belirler. Ancak emlak piyasasındaki talep ve arz durumu, benzer konutların fiyatları, konum ve özellikler gibi faktörler fiyatı etkiler."
+    },
+    {
+        "Id": 215,
+        "Soru": "emlakçı ile çalışmanın avantajları nelerdir",
+        "Cevap": "Emlakçılar genellikle piyasa bilgisine sahip olurlar, pazarlama stratejileri konusunda uzmanlaşmışlardır ve satış veya kiralama sürecini yönetirler. Ayrıca, alıcılar ve satıcılar arasında arabuluculuk yaparak süreci kolaylaştırırlar."
+    },
+    {
+        "Id": 216,
+        "Soru": "evin alım-satım veya kiralama süreci ne kadar sürer",
+        "Cevap": "Evin alım-satım veya kiralama süreci birçok faktöre bağlı olarak değişir. Piyasa koşulları, evin konumu ve özellikleri, taraflar arasındaki pazarlık süreci gibi faktörler süreyi etkiler. Genellikle birkaç hafta ile birkaç ay arasında değişen bir süreçtir."
+    },
+    {
+        "Id": 217,
+        "Soru": "evin satışı veya kirası için reklam nasıl yapılır",
+        "Cevap": "Evin satışı veya kirası için reklam yapmak için online ilan siteleri, sosyal medya platformları, emlak ofisleri, broşürler, açık ev etkinlikleri gibi yöntemler kullanılabilir. Emlakçılar da bu süreçte etkili bir rol oynarlar."
+    },
+    {
+        "Id": 218,
+        "Soru": "evin alım-satım veya kiralama sürecinde vergi ödemeleri gerekir mi",
+        "Cevap": "Evin alım-satım veya kiralama sürecinde vergi ödemeleri genellikle gereklidir. Tapu harcı, emlak vergisi, gelir vergisi gibi vergiler süreçte karşınıza çıkabilir. Vergi yükümlülükleri ülke ve bölgeye göre değişebilir, bu nedenle bir vergi danışmanıyla görüşmek önemlidir."
+    },
+    {
+        "Id": 219,
+        "Soru": "evin alım-satım veya kiralama sürecinde hukuki süreçler nelerdir",
+        "Cevap": "Evin alım-satım veya kiralama sürecinde hukuki süreçler arasında tapu devri, kira sözleşmesi, vergi ödemeleri gibi işlemler bulunur. Bu süreçlerin yasal olarak doğru ve güvenli bir şekilde tamamlanması için uygun hukuki süreçlerin takip edilmesi önemlidir."
+    },
+    {
+        "Id": 220,
+        "Soru": "evin satışında veya kiralama sürecinde pazarlık yapılabilir mi",
+        "Cevap": "Evin satışında veya kiralama sürecinde genellikle taraflar arasında pazarlık yapılır. Ancak pazarlık süreci, tarafların anlaşmasıyla sonuçlanmalıdır. Pazarlık sürecinde evin değerini, piyasa koşullarını ve tarafların taleplerini dikkate almak önemlidir."
+    },
+    {
+        "Id": 221,
+        "Soru": "evin alım-satım veya kiralama sürecinde taşınmaz malın durumu neden önemlidir",
+        "Cevap": "Taşınmaz malın durumu, evin kullanılabilirliği, güvenliği ve konforu açısından önemlidir. Evin durumu, bakımı, onarımı ve yapısal özellikleri gelecekteki mülkiyet değerini etkileyebilir."
+    },
+    {
+        "Id": 222,
+        "Soru": "evin alım-satım veya kiralama sürecinde konum neden önemlidir",
+        "Cevap": "Evin konumu, çevresel faktörler, ulaşım olanakları, alışveriş merkezlerine, okullara, hastanelere yakınlık gibi faktörler yaşam kalitesini etkiler ve mülkiyetin değerini belirleyebilir."
+    },
+    {
+        "Id": 223,
+        "Soru": "evin alım-satım veya kiralama sürecinde komşuların önemi nedir",
+        "Cevap": "Evin komşuları, yaşam kalitenizi etkileyen önemli bir faktördür. İyi komşuluk ilişkileri, güvenlik, sessizlik ve topluluk duygusu gibi faktörler yaşam kalitesini artırabilir."
+    },
+    {
+        "Id": 224,
+        "Soru": "evin alım-satım veya kiralama sürecinde altyapı olanaklarına dikkat etmek neden önemlidir",
+        "Cevap": "Evin altyapı olanakları, su, elektrik, doğal gaz gibi temel ihtiyaçları karşılar. İyi bir altyapı, yaşam konforunu artırırken, bakım ve onarım maliyetlerini azaltabilir."
+    },
+    {
+        "Id": 225,
+        "Soru": "evin alım-satım veya kiralama sürecinde çevresel faktörlere dikkat etmek neden önemlidir",
+        "Cevap": "Evin çevresel faktörleri, çevre kirliliği, gürültü, yeşil alanlar gibi faktörleri içerir. Sağlıklı ve sakin bir yaşam için çevresel faktörlere dikkat etmek önemlidir."
+    },
+    {
+        "Id": 226,
+        "Soru": "evin alım-satım veya kiralama sürecinde fiyatı nasıl pazarlık yapılır",
+        "Cevap": "Evin fiyatı üzerinde pazarlık yapmak için öncelikle piyasa değerini araştırmalı ve evin durumunu değerlendirmelisiniz. Sonrasında makul bir teklifle başlayarak, tarafların taleplerini ve piyasa koşullarını dikkate alarak pazarlık sürecini yönetebilirsiniz."
+    },
+    {
+        "Id": 227,
+        "Soru": "evin alım-satım veya kiralama sürecinde emlakçının rolü nedir",
+        "Cevap": "Emlakçılar, alıcılar ve satıcılar arasında arabuluculuk yaparlar, piyasa bilgisine sahiptirler, pazarlama stratejileri konusunda uzmanlaşmışlardır ve satış veya kiralama sürecini yönetirler."
+    },
+    {
+        "Id": 228,
+        "Soru": "evin alım-satım veya kiralama sürecinde önemli belgeler nelerdir",
+        "Cevap": "Evin alım-satım veya kiralama sürecinde ihtiyacınız olan belgeler arasında tapu senedi, kira sözleşmesi, vergi beyannamesi, iskan belgesi gibi belgeler bulunur. Bu belgeler sürecin yasal olarak doğru ve güvenli bir şekilde tamamlanması için gereklidir."
+    },
+    {
+        "Id": 229,
+        "Soru": "evin alım-satım veya kiralama sürecinde vergi ödemeleri nelerdir",
+        "Cevap": "Evin alım-satım veya kiralama sürecinde ödenmesi gereken vergiler arasında tapu harcı, emlak vergisi, gelir vergisi gibi vergiler bulunabilir. Vergi yükümlülükleri ülke ve bölgeye göre değişebilir."
+    },
+    {
+        "Id": 230,
+        "Soru": "evin alım-satım veya kiralama sürecinde ödeme koşulları nelerdir",
+        "Cevap": "Evin alım-satım veya kiralama sürecinde ödeme koşulları taraflar arasında anlaşmaya bağlıdır. Ödeme genellikle peşin, taksit veya banka kredisi gibi yöntemlerle gerçekleştirilir. Ödeme koşulları, satıcı veya kiracının talepleri ve piyasa koşulları göz önünde bulundurularak belirlenir."
+    },
+    {
+        "Id": 231,
+        "Soru": "evin kiralanması için hangi belgeler gereklidir",
+        "Cevap": "Evin kiralanması için genellikle kimlik belgesi, gelir belgesi veya kefil, kira sözleşmesi gibi belgeler gereklidir."
+    },
+    {
+        "Id": 232,
+        "Soru": "ev sahibi olmanın avantajları nelerdir",
+        "Cevap": "Ev sahibi olmanın avantajları arasında mülkiyetin sağladığı güvence, kira ödemek yerine kendi evinizde yaşama imkanı, yatırım yapma fırsatı gibi faktörler bulunur."
+    },
+    {
+        "Id": 233,
+        "Soru": "evin kira bedelini belirleyen faktörler nelerdir",
+        "Cevap": "Evin kira bedelini belirleyen faktörler arasında evin konumu, büyüklüğü, durumu, çevresel faktörler, altyapı olanakları ve piyasa koşulları gibi faktörler bulunur."
+    },
+    {
+        "Id": 234,
+        "Soru": "evin satış fiyatını belirleyen faktörler nelerdir",
+        "Cevap": "Evin satış fiyatını belirleyen faktörler arasında evin konumu, büyüklüğü, durumu, iç ve dış özellikler, çevresel faktörler, altyapı olanakları, piyasa koşulları ve bölgesel trendler gibi faktörler bulunur."
+    },
+    {
+        "Id": 235,
+        "Soru": "evin alım-satım veya kiralama sürecinde kimlik belgesi neden gereklidir",
+        "Cevap": "Evin alım-satım veya kiralama sürecinde kimlik belgesi, tarafların kimliklerini doğrulamak ve işlemlerin yasal olarak gerçekleşmesini sağlamak için gereklidir."
+    },
+    {
+        "Id": 236,
+        "Soru": "evin alım-satım veya kiralama sürecinde kefil ne işe yarar",
+        "Cevap": "Evin alım-satım veya kiralama sürecinde kefil, kiracının veya alıcının ödeme taahhüdünü desteklemek ve güvence sağlamak için kullanılır. Kefil, ödeme yapmama durumunda sorumluluğu üstlenir."
+    },
+    {
+        "Id": 237,
+        "Soru": "evin alım-satım veya kiralama sürecinde ön ödeme yapmak gerekir mi",
+        "Cevap": "Evin alım-satım veya kiralama sürecinde ön ödeme yapmak genellikle taraflar arasında anlaşılan bir durumdur. Ancak her durum farklı olabilir, bu nedenle ödeme koşulları önceden belirlenmelidir."
+    },
+    {
+        "Id": 238,
+        "Soru": "evin alım-satım veya kiralama sürecinde tapu ne işe yarar",
+        "Cevap": "Evin alım-satım veya kiralama sürecinde tapu, mülkiyetin yasal olarak belirlenmesi ve kaydedilmesi için kullanılır. Tapu, mülkiyet haklarını kanıtlayan resmi bir belgedir."
+    },
+    {
+        "Id": 239,
+        "Soru": "evin alım-satım veya kiralama sürecinde iskan belgesi ne işe yarar",
+        "Cevap": "Evin alım-satım veya kiralama sürecinde iskan belgesi, evin yapı ruhsatına uygun olduğunu ve kullanımının yasal olduğunu kanıtlayan bir belgedir."
+    },
+    {
+        "Id": 240,
+        "Soru": "evin alım-satım veya kiralama sürecinde kira sözleşmesi ne işe yarar",
+        "Cevap": "Evin alım-satım veya kiralama sürecinde kira sözleşmesi, kiracı ve ev sahibi arasındaki hak ve yükümlülükleri belirleyen bir sözleşmedir. Sözleşme, kira bedeli, süresi, ödeme koşulları gibi detayları içerir."
+    },
+    {
+        "Id": 241,
+        "Soru": "evin alım-satım veya kiralama sürecinde depozito ne işe yarar",
+        "Cevap": "Evin alım-satım veya kiralama sürecinde depozito, kiracının veya alıcının taahhütlerini yerine getirmemesi durumunda ev sahibine veya satıcıya zararın karşılanması için kullanılır."
+    },
+    {
+        "Id": 242,
+        "Soru": "evin alım-satım veya kiralama sürecinde önemli noktalar nelerdir",
+        "Cevap": "Evin alım-satım veya kiralama sürecinde dikkat edilmesi gereken önemli noktalar arasında evin durumu, konumu, fiyatı, ödeme koşulları, sözleşme detayları ve hukuki süreçler bulunur."
+    },
+    {
+        "Id": 243,
+        "Soru": "evin alım-satım veya kiralama sürecinde sigorta ne işe yarar",
+        "Cevap": "Evin alım-satım veya kiralama sürecinde sigorta, evin ve eşyaların yangın, hırsızlık, doğal afetler gibi risklere karşı korunmasını sağlar. Sigorta, beklenmedik durumlar karşısında maddi zararların karşılanmasına yardımcı olur."
+    },
+    {
+        "Id": 244,
+        "Soru": "evin alım-satım veya kiralama sürecinde tadilat ne zaman yapılmalıdır",
+        "Cevap": "Evin alım-satım veya kiralama sürecinde tadilat, evin durumuna ve ihtiyaçlarına bağlı olarak yapılabilir. Satın alma veya kiralama öncesi yapılacak tadilatlar, evin değerini artırabilir ve yaşam kalitesini yükseltebilir."
+    },
+    {
+        "Id": 245,
+        "Soru": "evin alım-satım veya kiralama sürecinde taşınma planı nasıl yapılmalıdır",
+        "Cevap": "Evin alım-satım veya kiralama sürecinde taşınma planı yapmak için öncelikle taşınma tarihini belirlemeli, gerekli eşyaların paketlenmesi ve taşınması için hazırlıklar yapmalı, gerekli izinleri ve adres değişikliklerini düzenlemelisiniz."
+    },
+    {
+        "Id": 246,
+        "Soru": "evin alım-satım veya kiralama sürecinde hukuki danışmanlık ne zaman alınmalıdır",
+        "Cevap": "Evin alım-satım veya kiralama sürecinde hukuki danışmanlık almak, özellikle karmaşık veya anlaşmazlık potansiyeli olan durumlarda önemlidir. Hukuki danışmanlık, işlemlerin yasal olarak doğru ve güvenli bir şekilde tamamlanmasına yardımcı olur."
+    },
+    {
+        "Id": 247,
+        "Soru": "evin alım-satım veya kiralama sürecinde alıcı veya kiracı için önemli olan faktörler nelerdir",
+        "Cevap": "Evin alım-satım veya kiralama sürecinde alıcı veya kiracı için önemli olan faktörler arasında evin durumu, konumu, fiyatı, ödeme koşulları, sözleşme detayları, taşınma planı gibi faktörler bulunur."
+    },
+    {
+        "Id": 248,
+        "Soru": "evin alım-satım veya kiralama sürecinde  belgeleri nereden temin edebilirim",
+        "Cevap": "Evin alım-satım veya kiralama sürecinde gerekli belgeleri genellikle emlakçı, tapu dairesi, belediye veya ilgili resmi kurumlardan temin edebilirsiniz."
+    },
+    {
+        "Id": 249,
+        "Soru": "evin alım-satım veya kiralama sürecinde ön ödeme yapmanın riskleri nelerdir",
+        "Cevap": "Evin alım-satım veya kiralama sürecinde ön ödeme yapmanın riskleri arasında satıcı veya kiracının taahhütlerini yerine getirmemesi durumunda paranın kaybedilmesi, anlaşmazlık yaşanması veya sözleşme ihlali gibi durumlar bulunabilir."
+    },
+    {
+        "Id": 250,
+        "Soru": "evin alım-satım veya kiralama sürecinde taşınma işlemleri nasıl yapılır",
+        "Cevap": "Evin alım-satım veya kiralama sürecinde taşınma işlemleri için öncelikle taşınma planı yapılmalı, gerekli eşyalar paketlenmeli ve taşınma tarihi belirlenmelidir. Sonrasında taşınma işlemleri profesyonel taşıma şirketleri veya kendi imkanlarınızla gerçekleştirilebilir."
+    },
+    {
+        "Id": 251,
+        "Soru": "ev alırken noter ne işe yarar",
+        "Cevap": "Ev alırken noter, alıcı ve satıcı arasında yapılan satış sözleşmesinin resmileştirilmesi ve tarafların haklarını koruyan bir aracıdır. Noter aynı zamanda tapu devir işlemlerini de gerçekleştirir."
+    },
+    {
+        "Id": 252,
+        "Soru": "ev satarken noter ne işe yarar",
+        "Cevap": "Ev satarken noter, satıcı ve alıcı arasında yapılan satış sözleşmesini resmileştirir ve tapu devir işlemlerini gerçekleştirir. Böylece işlem yasal olarak geçerli hale gelir ve tarafların hakları korunmuş olur."
+    },
+    {
+        "Id": 253,
+        "Soru": "noter satış sözleşmesinde hangi bilgiler bulunmalıdır",
+        "Cevap": "Noter satış sözleşmesinde satıcı ve alıcının kimlik bilgileri, satılan mülkün özellikleri, satış bedeli, ödeme koşulları, tapu devri tarihi gibi önemli bilgiler bulunmalıdır."
+    },
+    {
+        "Id": 254,
+        "Soru": "noter tapu devir işlemlerini nasıl gerçekleştirir",
+        "Cevap": "Noter tapu devir işlemleri için tarafların gerekli belgeleri hazırlamasını ve tapu devir işlem formunu doldurmasını sağlar. Daha sonra tapu devir işlemi tarafların ve tanıkların huzurunda noter tarafından gerçekleştirilir."
+    },
+    {
+        "Id": 255,
+        "Soru": "noter satış işlemi için gerekli belgeler nelerdir",
+        "Cevap": "Noter satış işlemi için gerekli belgeler arasında kimlik belgeleri, tapu senedi, tapu harcı dekontu, satış sözleşmesi, ipotek belgesi gibi belgeler bulunabilir. Gerekli belgeler sürecin türüne ve şartlarına göre değişebilir."
+    },
+    {
+        "Id": 256,
+        "Soru": "noter satış işlemi için hangi süreçleri içerir",
+        "Cevap": "Noter satış işlemi genellikle satış sözleşmesinin imzalanması, tapu devri işlemlerinin tamamlanması ve gerekli belgelerin taraflar arasında paylaşılması gibi adımları içerir."
+    },
+    {
+        "Id": 257,
+        "Soru": "noter satış işlemi için hangi maliyetler oluşur",
+        "Cevap": "Noter satış işlemi için oluşabilecek maliyetler arasında noter ücreti, tapu harcı, damga vergisi gibi masraflar bulunabilir. Maliyetler işlem türüne ve belirlenen ücretlere göre değişiklik gösterebilir."
+    },
+    {
+        "Id": 258,
+        "Soru": "noter satış işlemi için randevu nasıl alınır",
+        "Cevap": "Noter satış işlemi için randevu almak için noterin resmi web sitesinden online olarak veya telefonla iletişime geçerek randevu talebinde bulunabilirsiniz. Randevu talebi genellikle işlem türüne ve noterin yoğunluğuna göre belirlenir."
+    },
+    {
+        "Id": 259,
+        "Soru": "noter satış işlemi ne kadar sürer",
+        "Cevap": "Noter satış işlemi genellikle tarafların hazır olmasına ve gerekli belgelerin tamamlanmasına bağlı olarak değişir. Ancak genellikle birkaç saat ile birkaç gün arasında tamamlanabilir."
+    },
+    {
+        "Id": 260,
+        "Soru": "noter satış işlemi için nelere dikkat etmek önemlidir",
+        "Cevap": "Noter satış işlemi için dikkat edilmesi gereken önemli noktalar arasında satış sözleşmesinin detaylarının dikkatlice incelenmesi, gerekli belgelerin tam ve doğru bir şekilde hazırlanması, işlem sürecinin doğru ve güvenilir bir şekilde tamamlanması bulunur."
+    },
+    {
+        "Id": 261,
+        "Soru": "noter satış işlemi için neler gereklidir",
+        "Cevap": "Noter satış işlemi için gerekli belgeler arasında kimlik belgeleri, tapu senedi, tapu harcı dekontu, satış sözleşmesi, ipotek belgesi gibi belgeler bulunabilir. Gerekli belgeler işlem türüne ve şartlarına göre değişiklik gösterebilir."
+    },
+    {
+        "Id": 262,
+        "Soru": "noter satış işlemi için tapu devri nasıl gerçekleştirilir",
+        "Cevap": "Noter satış işlemi için tapu devri tarafların ve tanıkların huzurunda noter tarafından gerçekleştirilir. Taraflar tapu devir işlem formunu doldurur ve imzalar. Daha sonra noter tapu devir işlemini onaylar ve kayıt altına alır."
+    },
+    {
+        "Id": 263,
+        "Soru": "noter satış işlemi için hangi belgeler gereklidir",
+        "Cevap": "Noter satış işlemi için gerekli belgeler arasında kimlik belgeleri, tapu senedi, tapu harcı dekontu, satış sözleşmesi, ipotek belgesi, vekaletname gibi belgeler bulunabilir. Gerekli belgeler işlem türüne ve şartlarına göre değişiklik gösterebilir."
+    },
+    {
+        "Id": 264,
+        "Soru": "noter satış işlemi için ne kadar süre gerekir",
+        "Cevap": "Noter satış işlemi genellikle tarafların hazır olmasına ve gerekli belgelerin tamamlanmasına bağlı olarak değişir. Ancak genellikle birkaç saat ile birkaç gün arasında tamamlanabilir."
+    },
+    {
+        "Id": 265,
+        "Soru": "noter satış işlemi için masraflar nelerdir",
+        "Cevap": "Noter satış işlemi için oluşabilecek masraflar arasında noter ücreti, tapu harcı, damga vergisi gibi masraflar bulunabilir. Masraflar işlem türüne ve belirlenen ücretlere göre değişiklik gösterebilir."
+    },
+    {
+        "Id": 266,
+        "Soru": "noter satış işlemi için randevu nasıl alınır",
+        "Cevap": "Noter satış işlemi için randevu almak için noterin resmi web sitesinden online olarak veya telefonla iletişime geçerek randevu talebinde bulunabilirsiniz. Randevu talebi genellikle işlem türüne ve noterin yoğunluğuna göre belirlenir."
+    },
+    {
+        "Id": 267,
+        "Soru": "noter satış işlemi için hangi belgeler gereklidir",
+        "Cevap": "Noter satış işlemi için gerekli belgeler arasında kimlik belgeleri, tapu senedi, tapu harcı dekontu, satış sözleşmesi, ipotek belgesi gibi belgeler bulunabilir. Gerekli belgeler işlem türüne ve şartlarına göre değişiklik gösterebilir."
+    },
+    {
+        "Id": 268,
+        "Soru": "noter satış işlemi için hangi belgeler gerekir",
+        "Cevap": "Noter satış işlemi için gerekli belgeler arasında kimlik belgeleri, tapu senedi, tapu harcı dekontu, satış sözleşmesi, ipotek belgesi gibi belgeler bulunabilir. Gerekli belgeler işlem türüne ve şartlarına göre değişiklik gösterebilir."
+    },
+    {
+        "Id": 269,
+        "Soru": "noter satış işlemi için tapu devri nasıl gerçekleştirilir",
+        "Cevap": "Noter satış işlemi için tapu devri tarafların ve tanıkların huzurunda noter tarafından gerçekleştirilir. Taraflar tapu devir işlem formunu doldurur ve imzalar. Daha sonra noter tapu devir işlemini onaylar ve kayıt altına alır."
+    },
+    {
+        "Id": 270,
+        "Soru": "noter satış işlemi için ne kadar süre gerekir",
+        "Cevap": "Noter satış işlemi genellikle tarafların hazır olmasına ve gerekli belgelerin tamamlanmasına bağlı olarak değişir. Ancak genellikle birkaç saat ile birkaç gün arasında tamamlanabilir."
+    },
+    {
+        "Id": 271,
+        "Soru": "depozito nedir",
+        "Cevap": "Depozito, kiracının ev sahibine güvence olarak verdiği bir teminattır. Kiracının sözleşme gereğince belirli şartları yerine getirmemesi durumunda ev sahibi tarafından kullanılabilir."
+    },
+    {
+        "Id": 272,
+        "Soru": "kiracının depozito vermesi neden gereklidir",
+        "Cevap": "Kiracının depozito vermesi, kiralanan mülkün hasar görmesi veya kiracının kira borcunu ödememesi gibi durumlarda ev sahibinin zararını karşılamak için bir güvence sağlar."
+    },
+    {
+        "Id": 273,
+        "Soru": "depozito ne kadar olmalıdır",
+        "Cevap": "Depozito miktarı genellikle kira bedelinin birkaç aylık tutarı kadar olabilir. Ancak bu miktar kiralanan mülkün durumuna, kira süresine ve diğer faktörlere bağlı olarak değişiklik gösterebilir."
+    },
+    {
+        "Id": 274,
+        "Soru": "depozito nasıl ödenir",
+        "Cevap": "Depozito genellikle kira sözleşmesinin imzalanmasıyla birlikte kiracı tarafından ev sahibine nakit olarak veya banka havalesi ile ödenir."
+    },
+    {
+        "Id": 275,
+        "Soru": "depozito ne zaman geri alınır",
+        "Cevap": "Depozito, kiralama sözleşmesinin sona ermesi ve kiralanan mülkün durumunun incelenmesiyle birlikte geri alınır. Kiracının mülkü hasar vermemesi ve kira borcunu ödemesi durumunda depozito geri iade edilir."
+    },
+    {
+        "Id": 276,
+        "Soru": "depozito ne için kullanılabilir",
+        "Cevap": "Depozito, kiralanan mülkün hasar görmesi, kira borcunun ödenmemesi veya sözleşme şartlarının ihlal edilmesi gibi durumlarda ev sahibi tarafından kullanılabilir."
+    },
+    {
+        "Id": 277,
+        "Soru": "depozito kullanıldıktan sonra geri alınabilir mi",
+        "Cevap": "Depozito, kira sözleşmesinin sona ermesi ve mülkün durumunun incelenmesiyle birlikte kullanıldıktan sonra geri alınabilir. Ancak kiracının mülkü hasar vermemesi durumunda depozito geri iade edilir."
+    },
+    {
+        "Id": 278,
+        "Soru": "depozito geri alınırken nelere dikkat etmek gerekir",
+        "Cevap": "Depozito geri alınırken mülkün durumunun detaylı bir şekilde incelenmesi ve gerekli düzenlemelerin yapılması önemlidir. Kiracının mülkü hasar vermemesi ve kira borcunu tam olarak ödemesi durumunda depozito eksiksiz olarak geri iade edilmelidir."
+    },
+    {
+        "Id": 279,
+        "Soru": "depozito iadesi için ne yapmak gereklidir",
+        "Cevap": "Depozito iadesi için kiracı, kira sözleşmesinin sona ermesinin ardından ev sahibine başvurarak iade talebinde bulunmalıdır. Ev sahibi mülkün durumunu inceledikten sonra depozito iadesini yapar."
+    },
+    {
+        "Id": 280,
+        "Soru": "depozito iadesi nasıl yapılır",
+        "Cevap": "Depozito iadesi genellikle kiracının hesabına banka havalesi veya nakit olarak yapılır. İade işlemi, kira sözleşmesinin sona ermesi ve mülkün durumunun incelenmesinden sonra gerçekleşir."
+    },
+    {
+        "Id": 281,
+        "Soru": "ev almak mı, yoksa kiralamak mı daha avantajlı",
+        "Cevap": "Ev almak veya kiralamak arasında tercih yaparken birçok faktörü göz önünde bulundurmalısınız. Finansal durumunuz, uzun vadeli planlarınız ve yaşam tarzınız bu kararı etkileyen önemli unsurlardır. Almak, mülkiyet ve yatırım avantajları sunarken, kiralamak daha esneklik ve taahhüt olmadan yaşama imkanı sağlayabilir."
+    },
+    {
+        "Id": 282,
+        "Soru": "kendi evimi satın almak mı yoksa kiralamak mı daha uygun",
+        "Cevap": "Kendi evini satın almak veya kiralamak arasında karar verirken finansal durumunuzu ve uzun vadeli hedeflerinizi göz önünde bulundurmalısınız. Satın almak, mülkiyet avantajları sağlar ve yatırım potansiyeli sunar. Ancak kiralamak daha esneklik ve taahhüt olmadan yaşam imkanı sağlar."
+    },
+    {
+        "Id": 283,
+        "Soru": "ev alırken nelere dikkat etmeliyim",
+        "Cevap": "Ev alırken dikkat etmeniz gereken bazı önemli faktörler arasında bütçeniz, lokasyon, evin durumu, büyüklüğü, altyapı, çevre faktörleri ve gelecekteki değer artış potansiyeli bulunur. Ayrıca tapu ve diğer hukuki belgelerin de dikkatlice incelenmesi önemlidir."
+    },
+    {
+        "Id": 284,
+        "Soru": "ev kiralamak için nelere dikkat etmeliyim",
+        "Cevap": "Ev kiralamak için dikkat etmeniz gereken bazı önemli faktörler arasında kira bedeli, konum, evin durumu, kira sözleşmesinin detayları, komşular, altyapı olanakları ve taşınma maliyetleri bulunur. Kiralık evi detaylıca inceleyerek karar vermelisiniz."
+    },
+    {
+        "Id": 285,
+        "Soru": "ev alırken nelere dikkat etmeliyim",
+        "Cevap": "Ev alırken dikkat etmeniz gereken bazı önemli faktörler arasında bütçeniz, lokasyon, evin durumu, büyüklüğü, altyapı, çevre faktörleri ve gelecekteki değer artış potansiyeli bulunur. Ayrıca tapu ve diğer hukuki belgelerin de dikkatlice incelenmesi önemlidir."
+    },
+    {
+        "Id": 286,
+        "Soru": "ev kiralamak mı yoksa satın almak mı daha mantıklı",
+        "Cevap": "Ev kiralamak veya satın almak kararı, kişisel tercihlerinize ve finansal durumunuza bağlı olarak değişir. Kiralamak, esneklik ve taahhüt olmadan yaşama imkanı sağlar. Satın almak ise mülkiyet avantajları sunar ve uzun vadeli bir yatırım olarak düşünülebilir."
+    },
+    {
+        "Id": 287,
+        "Soru": "ev sahibi olmanın avantajları nelerdir",
+        "Cevap": "Ev sahibi olmanın avantajları arasında mülkiyetin güvencesi, istediğiniz gibi değişiklik yapabilme özgürlüğü, yatırım potansiyeli, kira ödememe ve emlak değerinin artması gibi faktörler bulunur."
+    },
+    {
+        "Id": 288,
+        "Soru": "kiracı olmanın avantajları nelerdir",
+        "Cevap": "Kiracı olmanın avantajları arasında esneklik, taahhüt olmadan yaşama imkanı, bakım ve onarım masraflarından kurtulma, mülk değerinin düşmesinden etkilenmemek ve belirli bir bütçeyle yaşama imkanı bulunur."
+    },
+    {
+        "Id": 289,
+        "Soru": "ev almak mı yoksa kiralamak mı daha mantıklı",
+        "Cevap": "Ev almak veya kiralamak kararı, kişisel tercihlerinize, finansal durumunuza ve uzun vadeli planlarınıza bağlı olarak değişir. Almak, mülkiyet avantajları sunar ve yatırım potansiyeli taşır. Kiralamak ise esneklik ve taahhüt olmadan yaşama imkanı sağlar."
+    },
+    {
+        "Id": 290,
+        "Soru": "ev alırken nelere dikkat etmeliyim",
+        "Cevap": "Ev alırken dikkat etmeniz gereken bazı önemli faktörler arasında bütçeniz, lokasyon, evin durumu, büyüklüğü, altyapı, çevre faktörleri ve gelecekteki değer artış potansiyeli bulunur. Ayrıca tapu ve diğer hukuki belgelerin de dikkatlice incelenmesi önemlidir."
+    },
+    {
+        "Id": 291,
+        "Soru": "ev kiralamak mı yoksa satın almak mı daha uygun",
+        "Cevap": "Ev kiralamak veya satın almak kararı, kişisel tercihlerinize, finansal durumunuza ve uzun vadeli planlarınıza bağlı olarak değişir. Kiralamak, esneklik ve taahhüt olmadan yaşama imkanı sağlar. Satın almak ise mülkiyet avantajları sunar ve yatırım potansiyeli taşır."
+    },
+    {
+        "Id": 292,
+        "Soru": "ev almak neden bir yatırım olarak düşünülür",
+        "Cevap": "Ev almak, genellikle mülkün değerinin zamanla artması ve kiraya verilerek düzenli gelir elde edilmesi nedeniyle bir yatırım olarak düşünülür. Ayrıca, emlak sektöründeki fiyat artışları da yatırımcılar için çekici olabilir."
+    },
+    {
+        "Id": 293,
+        "Soru": "emlak yatırımı yapmak için neden ev almalıyım",
+        "Cevap": "Emlak yatırımı yapmak için ev almak, mülkün değer artışı ve kira geliri sağlaması nedeniyle tercih edilir. Ayrıca, emlak yatırımı genellikle diğer yatırım araçlarına göre daha güvenli ve istikrarlı bir getiri sunabilir."
+    },
+    {
+        "Id": 294,
+        "Soru": "ev almak için neden iyi bir yatırım fırsatı olabilir",
+        "Cevap": "Ev almak, uzun vadeli bir yatırım stratejisi olarak düşünüldüğünde genellikle iyi bir fırsat olabilir. Mülkün değeri zamanla artabilir ve kiraya verilerek düzenli bir gelir elde edilebilir. Ayrıca, emlak yatırımı genellikle enflasyon riskinden korunmayı sağlayabilir."
+    },
+    {
+        "Id": 295,
+        "Soru": "ev almak için ne tür bir mülk tercih etmeliyim",
+        "Cevap": "Ev alırken tercih edilecek mülk tipi genellikle yatırım stratejisine ve kişisel tercihlere bağlıdır. Bazı yatırımcılar konut daireleri veya evler almayı tercih ederken, diğerleri ticari mülkler veya kira getirisi yüksek bölgelerdeki gayrimenkulleri tercih edebilir."
+    },
+    {
+        "Id": 296,
+        "Soru": "emlak yatırımı yaparken nelere dikkat etmeliyim",
+        "Cevap": "Emlak yatırımı yaparken dikkat edilmesi gereken bazı önemli faktörler arasında mülkün konumu, potansiyel kira getirisi, bölgedeki emlak piyasası trendleri, vergi ve sigorta maliyetleri, bakım ve onarım masrafları gibi unsurlar bulunur."
+    },
+    {
+        "Id": 297,
+        "Soru": "emlak yatırımı yapmak için hangi finansman seçenekleri mevcuttur",
+        "Cevap": "Emlak yatırımı yapmak için çeşitli finansman seçenekleri mevcuttur. Bunlar arasında nakit ödeme, ipotek kredisi, yatırım ortaklıkları veya emlak yatırım fonları gibi seçenekler bulunur. Hangi finansman seçeneğinin en uygun olduğunu belirlemek için finansal durumunuzu değerlendirmelisiniz."
+    },
+    {
+        "Id": 298,
+        "Soru": "emlak yatırımı yapmak riskli midir",
+        "Cevap": "Emlak yatırımı yapmak, diğer yatırım türleri gibi bazı riskler içerebilir. Örneğin, piyasadaki değer kaybı, kiracı sorunları, bakım ve onarım maliyetleri gibi risklerle karşılaşılabilir. Ancak, doğru araştırma ve planlama ile riskler minimize edilebilir."
+    },
+    {
+        "Id": 299,
+        "Soru": "emlak yatırımı yapmanın avantajları nelerdir",
+        "Cevap": "Emlak yatırımı yapmanın avantajları arasında mülkün değerinin zamanla artması, kira geliri elde etme, vergi avantajları, enflasyon koruması, çeşitlendirme imkanı ve mülkiyet kontrolü gibi faktörler bulunur."
+    },
+    {
+        "Id": 300,
+        "Soru": "emlak yatırımı yapmanın dezavantajları nelerdir",
+        "Cevap": "Emlak yatırımı yapmanın dezavantajları arasında likidite riski, bakım ve onarım masrafları, kiracı sorunları, piyasa dalgalanmaları ve emlak vergileri gibi faktörler bulunur. Ancak, doğru planlama ve yönetim ile bu riskler minimize edilebilir."
+    },
+    {
+        "Id": 301,
+        "Soru": "İstanbul'da ev almak istiyorum",
+        "Cevap": "İstanbul'da ev almak için tercih edebileceğiniz birçok semt bulunmaktadır. Ancak tercih yapmadan önce bütçeniz, tercihleriniz ve ihtiyaçlarınızı belirlemeniz önemlidir. Örneğin, şehir merkezine yakın ve ulaşımı kolay semtlerden biri olan Beşiktaş, genç ve dinamik bir yaşam tarzı arayanlar için ideal olabilir. Eğer sessiz ve sakin bir yaşam arıyorsanız, Bahçeşehir gibi yeni gelişen semtleri değerlendirebilirsiniz. Tercihinizi belirlemeden önce bölgeyi ziyaret edip yerel emlak uzmanlarından ve halktan bilgi almanız faydalı olacaktır."
+    },
+    {
+        "Id": 302,
+        "Soru": "İzmir'de ev almak istiyorum",
+        "Cevap": "İzmir'de ev almak için tercih edebileceğiniz birçok güzel semt bulunmaktadır. Örneğin, Karşıyaka ve Alsancak gibi sahil semtleri hem denize yakınlığı hem de sosyal olanaklarıyla dikkat çekiyor. Eğer doğayla iç içe bir yaşam arıyorsanız, Urla veya Çeşme gibi ilçeleri değerlendirebilirsiniz. Tercihinizi belirlemeden önce bölgeyi ziyaret edip yerel emlak uzmanlarından ve halktan bilgi almanız faydalı olacaktır."
+    },
+    {
+        "Id": 303,
+        "Soru": "Ankara'da ev almak istiyorum",
+        "Cevap": "Ankara'da ev almak için tercih edebileceğiniz birkaç semt bulunmaktadır. Örneğin, Çankaya ve Kavaklıdere gibi merkezi semtler, şehir yaşamını sevenler için ideal olabilir. Eğer yeşillikler içinde huzurlu bir yaşam istiyorsanız, Oran ve Bilkent gibi semtleri değerlendirebilirsiniz. Tercihinizi belirlemeden önce bölgeyi ziyaret edip yerel emlak uzmanlarından ve halktan bilgi almanız faydalı olacaktır."
+    },
+    {
+        "Id": 304,
+        "Soru": "Adana'da ev almak istiyorum",
+        "Cevap": "Adana'da ev almak için tercih edebileceğiniz birkaç semt bulunmaktadır. Örneğin, Seyhan ve Çukurova gibi merkezi semtler, şehir yaşamını sevenler için ideal olabilir. Eğer daha sakin bir yaşam arıyorsanız, Çukurova'nın dışında yer alan Yüreğir veya Sarıçam gibi semtleri değerlendirebilirsiniz. Tercihinizi belirlemeden önce bölgeyi ziyaret edip yerel emlak uzmanlarından ve halktan bilgi almanız faydalı olacaktır."
+    },
+    {
+        "Id": 305,
+        "Soru": "Adıyaman'da ev almak istiyorum",
+        "Cevap": "Adıyaman'da ev almak için tercih edebileceğiniz bazı semtler bulunmaktadır. Örneğin, Merkez ve Gölbaşı gibi merkezi semtler, şehir yaşamını sevenler için ideal olabilir. Eğer doğayla iç içe bir yaşam arıyorsanız, Kahta gibi ilçeleri değerlendirebilirsiniz. Tercihinizi belirlemeden önce bölgeyi ziyaret edip yerel emlak uzmanlarından ve halktan bilgi almanız faydalı olacaktır."
+    },
+    {
+        "Id": 306,
+        "Soru": "Afyonkarahisar'da ev almak istiyorum",
+        "Cevap": "Afyonkarahisar'da ev almak için tercih edebileceğiniz bazı semtler bulunmaktadır. Örneğin, Merkez ve Zafer gibi merkezi semtler, şehir yaşamını sevenler için ideal olabilir. Eğer daha sakin bir yaşam arıyorsanız, Şuhut veya Sandıklı gibi ilçeleri değerlendirebilirsiniz. Tercihinizi belirlemeden önce bölgeyi ziyaret edip yerel emlak uzmanlarından ve halktan bilgi almanız faydalı olacaktır."
+    },
+    {
+        "Id": 307,
+        "Soru": "Ağrı'da ev almak istiyorum",
+        "Cevap": "Ağrı'da ev almak için tercih edebileceğiniz bazı semtler bulunmaktadır. Örneğin, Merkez ve Patnos gibi merkezi semtler, şehir yaşamını sevenler için ideal olabilir. Eğer daha sakin bir yaşam arıyorsanız, Diyadin veya Eleşkirt gibi ilçeleri değerlendirebilirsiniz. Tercihinizi belirlemeden önce bölgeyi ziyaret edip yerel emlak uzmanlarından ve halktan bilgi almanız faydalı olacaktır."
+    },
+    {
+        "Id": 308,
+        "Soru": "Aksaray'da ev almak istiyorum",
+        "Cevap": "Aksaray'da ev almak için tercih edebileceğiniz bazı semtler bulunmaktadır. Örneğin, Merkez ve Sultanhanı gibi merkezi semtler, şehir yaşamını sevenler için ideal olabilir. Eğer daha sakin bir yaşam arıyorsanız, Ortaköy veya Gülağaç gibi ilçeleri değerlendirebilirsiniz. Tercihinizi belirlemeden önce bölgeyi ziyaret edip yerel emlak uzmanlarından ve halktan bilgi almanız faydalı olacaktır."
+    },
+    {
+        "Id": 309,
+        "Soru": "Amasya'da ev almak istiyorum",
+        "Cevap": "Amasya'da ev almak için tercih edebileceğiniz bazı semtler bulunmaktadır. Örneğin, Merkez ve Taşova gibi merkezi semtler, şehir yaşamını sevenler için ideal olabilir. Eğer daha sakin bir yaşam arıyorsanız, Göynücek veya Suluova gibi ilçeleri değerlendirebilirsiniz. Tercihinizi belirlemeden önce bölgeyi ziyaret edip yerel emlak uzmanlarından ve halktan bilgi almanız faydalı olacaktır."
+    },
+    {
+        "Id": 310,
+        "Soru": "Antalya'da ev almak istiyorum",
+        "Cevap": "Antalya'da ev almak için tercih edebileceğiniz birçok güzel semt bulunmaktadır. Örneğin, Lara ve Konyaaltı gibi sahil semtleri, hem denize yakınlığı hem de sosyal olanaklarıyla dikkat çekiyor. Eğer doğayla iç içe bir yaşam arıyorsanız, Kemer veya Kaş gibi ilçeleri değerlendirebilirsiniz. Tercihinizi belirlemeden önce bölgeyi ziyaret edip yerel emlak uzmanlarından ve halktan bilgi almanız faydalı olacaktır."
+    },
+    {
+        "Id": 311,
+        "Soru": "Ardahan'da ev almak istiyorum",
+        "Cevap": "Ardahan'da ev almak için tercih edebileceğiniz bazı semtler bulunmaktadır. Örneğin, Merkez ve Çıldır gibi merkezi semtler, şehir yaşamını sevenler için ideal olabilir. Eğer doğayla iç içe bir yaşam arıyorsanız, Hanak veya Göle gibi ilçeleri değerlendirebilirsiniz. Tercihinizi belirlemeden önce bölgeyi ziyaret edip yerel emlak uzmanlarından ve halktan bilgi almanız faydalı olacaktır."
+    },
+    {
+        "Id": 312,
+        "Soru": "Artvin'de ev almak istiyorum",
+        "Cevap": "Artvin'de ev almak için tercih edebileceğiniz bazı semtler bulunmaktadır. Örneğin, Merkez ve Hopa gibi merkezi semtler, şehir yaşamını sevenler için ideal olabilir. Eğer doğayla iç içe bir yaşam arıyorsanız, Borçka veya Arhavi gibi ilçeleri değerlendirebilirsiniz. Tercihinizi belirlemeden önce bölgeyi ziyaret edip yerel emlak uzmanlarından ve halktan bilgi almanız faydalı olacaktır."
+    },
+    {
+        "Id": 313,
+        "Soru": "Aydın'da ev almak istiyorum",
+        "Cevap": "Aydın'da ev almak için tercih edebileceğiniz birçok güzel semt bulunmaktadır. Örneğin, Merkez ve Kuşadası gibi merkezi semtler, hem denize yakınlığı hem de sosyal olanaklarıyla dikkat çekiyor. Eğer doğayla iç içe bir yaşam arıyorsanız, Didim veya Söke gibi ilçeleri değerlendirebilirsiniz. Tercihinizi belirlemeden önce bölgeyi ziyaret edip yerel emlak uzmanlarından ve halktan bilgi almanız faydalı olacaktır."
+    },
+    {
+        "Id": 314,
+        "Soru": "Balıkesir'de ev almak istiyorum",
+        "Cevap": "Balıkesir'de ev almak için tercih edebileceğiniz bazı semtler bulunmaktadır. Örneğin, Merkez ve Bandırma gibi merkezi semtler, şehir yaşamını sevenler için ideal olabilir. Eğer doğayla iç içe bir yaşam arıyorsanız, Edremit veya Ayvalık gibi ilçeleri değerlendirebilirsiniz. Tercihinizi belirlemeden önce bölgeyi ziyaret edip yerel emlak uzmanlarından ve halktan bilgi almanız faydalı olacaktır."
+    },
+    {
+        "Id": 315,
+        "Soru": "Bartın'da ev almak istiyorum",
+        "Cevap": "Bartın'da ev almak için tercih edebileceğiniz bazı semtler bulunmaktadır. Örneğin, Merkez ve Amasra gibi merkezi semtler, şehir yaşamını sevenler için ideal olabilir. Eğer doğayla iç içe bir yaşam arıyorsanız, Ulus veya Kurucaşile gibi ilçeleri değerlendirebilirsiniz. Tercihinizi belirlemeden önce bölgeyi ziyaret edip yerel emlak uzmanlarından ve halktan bilgi almanız faydalı olacaktır."
+    },
+    {
+        "Id": 316,
+        "Soru": "Batman'da ev almak istiyorum",
+        "Cevap": "Batman'da ev almak için tercih edebileceğiniz bazı semtler bulunmaktadır. Örneğin, Merkez ve Kozluk gibi merkezi semtler, şehir yaşamını sevenler için ideal olabilir. Eğer daha sakin bir yaşam arıyorsanız, Hasankeyf veya Beşiri gibi ilçeleri değerlendirebilirsiniz. Tercihinizi belirlemeden önce bölgeyi ziyaret edip yerel emlak uzmanlarından ve halktan bilgi almanız faydalı olacaktır."
+    },
+    {
+        "Id": 317,
+        "Soru": "Bayburt'ta ev almak istiyorum",
+        "Cevap": "Bayburt'ta ev almak için tercih edebileceğiniz bazı semtler bulunmaktadır. Örneğin, Merkez ve Demirözü gibi merkezi semtler, şehir yaşamını sevenler için ideal olabilir. Eğer doğayla iç içe bir yaşam arıyorsanız, Aydıntepe veya İspir gibi ilçeleri değerlendirebilirsiniz. Tercihinizi belirlemeden önce bölgeyi ziyaret edip yerel emlak uzmanlarından ve halktan bilgi almanız faydalı olacaktır."
+    },
+    {
+        "Id": 318,
+        "Soru": "Bilecik'te ev almak istiyorum",
+        "Cevap": "Bilecik'te ev almak için tercih edebileceğiniz bazı semtler bulunmaktadır. Örneğin, Merkez ve Bozüyük gibi merkezi semtler, şehir yaşamını sevenler için ideal olabilir. Eğer doğayla iç içe bir yaşam arıyorsanız, Gölpazarı veya Yenipazar gibi ilçeleri değerlendirebilirsiniz. Tercihinizi belirlemeden önce bölgeyi ziyaret edip yerel emlak uzmanlarından ve halktan bilgi almanız faydalı olacaktır."
+    },
+    {
+        "Id": 319,
+        "Soru": "Bingöl'de ev almak istiyorum",
+        "Cevap": "Bingöl'de ev almak için tercih edebileceğiniz bazı semtler bulunmaktadır. Örneğin, Merkez ve Genç gibi merkezi semtler, şehir yaşamını sevenler için ideal olabilir. Eğer daha sakin bir yaşam arıyorsanız, Karlıova veya Kiğı gibi ilçeleri değerlendirebilirsiniz. Tercihinizi belirlemeden önce bölgeyi ziyaret edip yerel emlak uzmanlarından ve halktan bilgi almanız faydalı olacaktır."
+    },
+    {
+        "Id": 320,
+        "Soru": "Bitlis'te ev almak istiyorum",
+        "Cevap": "Bitlis'te ev almak için tercih edebileceğiniz bazı semtler bulunmaktadır. Örneğin, Merkez ve Tatvan gibi merkezi semtler, şehir yaşamını sevenler için ideal olabilir. Eğer doğayla iç içe bir yaşam arıyorsanız, Ahlat veya Hizan gibi ilçeleri değerlendirebilirsiniz. Tercihinizi belirlemeden önce bölgeyi ziyaret edip yerel emlak uzmanlarından ve halktan bilgi almanız faydalı olacaktır."
+    },
+    {
+        "Id": 321,
+        "Soru": "Bolu'da ev almak istiyorum",
+        "Cevap": "Bolu'da ev almak için tercih edebileceğiniz bazı semtler bulunmaktadır. Örneğin, Merkez ve Göynük gibi merkezi semtler, şehir yaşamını sevenler için ideal olabilir. Eğer doğayla iç içe bir yaşam arıyorsanız, Mudurnu veya Mengen gibi ilçeleri değerlendirebilirsiniz. Tercihinizi belirlemeden önce bölgeyi ziyaret edip yerel emlak uzmanlarından ve halktan bilgi almanız faydalı olacaktır."
+    },
+    {
+        "Id": 322,
+        "Soru": "Burdur'da ev almak istiyorum",
+        "Cevap": "Burdur'da ev almak için tercih edebileceğiniz bazı semtler bulunmaktadır. Örneğin, Merkez ve Bucak gibi merkezi semtler, şehir yaşamını sevenler için ideal olabilir. Eğer doğayla iç içe bir yaşam arıyorsanız, Yeşilova veya Çavdır gibi ilçeleri değerlendirebilirsiniz. Tercihinizi belirlemeden önce bölgeyi ziyaret edip yerel emlak uzmanlarından ve halktan bilgi almanız faydalı olacaktır."
+    },
+    {
+        "Id": 323,
+        "Soru": "Bursa'da ev almak istiyorum",
+        "Cevap": "Bursa'da ev almak için tercih edebileceğiniz birçok güzel semt bulunmaktadır. Örneğin, Osmangazi ve Nilüfer gibi merkezi semtler, hem şehir yaşamının hem de sosyal olanakların keyfini çıkarmanızı sağlar. Eğer doğayla iç içe bir yaşam arıyorsanız, Mudanya veya İznik gibi ilçeleri değerlendirebilirsiniz. Tercihinizi belirlemeden önce bölgeyi ziyaret edip yerel emlak uzmanlarından ve halktan bilgi almanız faydalı olacaktır."
+    },
+    {
+        "Id": 324,
+        "Soru": "Çanakkale'de ev almak istiyorum",
+        "Cevap": "Çanakkale'de ev almak için tercih edebileceğiniz bazı semtler bulunmaktadır. Örneğin, Merkez ve Eceabat gibi merkezi semtler, şehir yaşamını sevenler için ideal olabilir. Eğer doğayla iç içe bir yaşam arıyorsanız, Biga veya Ayvacık gibi ilçeleri değerlendirebilirsiniz. Tercihinizi belirlemeden önce bölgeyi ziyaret edip yerel emlak uzmanlarından ve halktan bilgi almanız faydalı olacaktır."
+    },
+    {
+        "Id": 325,
+        "Soru": "Çankırı'da ev almak istiyorum",
+        "Cevap": "Çankırı'da ev almak için tercih edebileceğiniz bazı semtler bulunmaktadır. Örneğin, Merkez ve Ilgaz gibi merkezi semtler, şehir yaşamını sevenler için ideal olabilir. Eğer daha sakin bir yaşam arıyorsanız, Kurşunlu veya Atkaracalar gibi ilçeleri değerlendirebilirsiniz. Tercihinizi belirlemeden önce bölgeyi ziyaret edip yerel emlak uzmanlarından ve halktan bilgi almanız faydalı olacaktır."
+    },
+    {
+        "Id": 326,
+        "Soru": "Çorum'da ev almak istiyorum",
+        "Cevap": "Çorum'da ev almak için tercih edebileceğiniz bazı semtler bulunmaktadır. Örneğin, Merkez ve Sungurlu gibi merkezi semtler, şehir yaşamını sevenler için ideal olabilir. Eğer doğayla iç içe bir yaşam arıyorsanız, Osmancık veya Mecitözü gibi ilçeleri değerlendirebilirsiniz. Tercihinizi belirlemeden önce bölgeyi ziyaret edip yerel emlak uzmanlarından ve halktan bilgi almanız faydalı olacaktır."
+    },
+    {
+        "Id": 327,
+        "Soru": "Denizli'de ev almak istiyorum",
+        "Cevap": "Denizli'de ev almak için tercih edebileceğiniz birçok güzel semt bulunmaktadır. Örneğin, Merkez ve Pamukkale gibi merkezi semtler, hem şehir yaşamının hem de sosyal olanakların keyfini çıkarmanızı sağlar. Eğer doğayla iç içe bir yaşam arıyorsanız, Çal veya Güney gibi ilçeleri değerlendirebilirsiniz. Tercihinizi belirlemeden önce bölgeyi ziyaret edip yerel emlak uzmanlarından ve halktan bilgi almanız faydalı olacaktır."
+    },
+    {
+        "Id": 328,
+        "Soru": "Diyarbakır'da ev almak istiyorum",
+        "Cevap": "Diyarbakır'da ev almak için tercih edebileceğiniz bazı semtler bulunmaktadır. Örneğin, Bağlar ve Kayapınar gibi merkezi semtler, şehir yaşamını sevenler için ideal olabilir. Eğer tarihi dokuya yakın bir yaşam arıyorsanız, Sur veya Çermik gibi ilçeleri değerlendirebilirsiniz. Tercihinizi belirlemeden önce bölgeyi ziyaret edip yerel emlak uzmanlarından ve halktan bilgi almanız faydalı olacaktır."
+    },
+    {
+        "Id": 329,
+        "Soru": "Düzce'de ev almak istiyorum",
+        "Cevap": "Düzce'de ev almak için tercih edebileceğiniz bazı semtler bulunmaktadır. Örneğin, Merkez ve Akçakoca gibi merkezi semtler, şehir yaşamını sevenler için ideal olabilir. Eğer doğayla iç içe bir yaşam arıyorsanız, Gölyaka veya Yığılca gibi ilçeleri değerlendirebilirsiniz. Tercihinizi belirlemeden önce bölgeyi ziyaret edip yerel emlak uzmanlarından ve halktan bilgi almanız faydalı olacaktır."
+    },
+    {
+        "Id": 330,
+        "Soru": "Edirne'de ev almak istiyorum",
+        "Cevap": "Edirne'de ev almak için tercih edebileceğiniz bazı semtler bulunmaktadır. Örneğin, Merkez ve Keşan gibi merkezi semtler, şehir yaşamını sevenler için ideal olabilir. Eğer doğal güzelliklerle iç içe bir yaşam arıyorsanız, Uzunköprü veya İpsala gibi ilçeleri değerlendirebilirsiniz. Tercihinizi belirlemeden önce bölgeyi ziyaret edip yerel emlak uzmanlarından ve halktan bilgi almanız faydalı olacaktır."
+    },
+    {
+        "Id": 331,
+        "Soru": "Elazığ'da ev almak istiyorum",
+        "Cevap": "Elazığ'da ev almak için tercih edebileceğiniz bazı semtler bulunmaktadır. Örneğin, Merkez ve Palu gibi merkezi semtler, şehir yaşamını sevenler için ideal olabilir. Eğer daha sakin bir yaşam arıyorsanız, Kovancılar veya Karakoçan gibi ilçeleri değerlendirebilirsiniz. Tercihinizi belirlemeden önce bölgeyi ziyaret edip yerel emlak uzmanlarından ve halktan bilgi almanız faydalı olacaktır."
+    },
+    {
+        "Id": 332,
+        "Soru": "Erzincan'da ev almak istiyorum",
+        "Cevap": "Erzincan'da ev almak için tercih edebileceğiniz bazı semtler bulunmaktadır. Örneğin, Merkez ve Kemaliye gibi merkezi semtler, şehir yaşamını sevenler için ideal olabilir. Eğer doğayla iç içe bir yaşam arıyorsanız, Refahiye veya Tercan gibi ilçeleri değerlendirebilirsiniz. Tercihinizi belirlemeden önce bölgeyi ziyaret edip yerel emlak uzmanlarından ve halktan bilgi almanız faydalı olacaktır."
+    },
+    {
+        "Id": 333,
+        "Soru": "Erzurum'da ev almak istiyorum",
+        "Cevap": "Erzurum'da ev almak için tercih edebileceğiniz birçok güzel semt bulunmaktadır. Örneğin, Palandöken ve Yakutiye gibi merkezi semtler, hem şehir yaşamının hem de sosyal olanakların keyfini çıkarmanızı sağlar. Eğer doğayla iç içe bir yaşam arıyorsanız, Aziziye veya Oltu gibi ilçeleri değerlendirebilirsiniz. Tercihinizi belirlemeden önce bölgeyi ziyaret edip yerel emlak uzmanlarından ve halktan bilgi almanız faydalı olacaktır."
+    },
+    {
+        "Id": 334,
+        "Soru": "Eskişehir'de ev almak istiyorum",
+        "Cevap": "Eskişehir'de ev almak için tercih edebileceğiniz birçok güzel semt bulunmaktadır. Örneğin, Tepebaşı ve Odunpazarı gibi merkezi semtler, hem şehir yaşamının hem de sosyal olanakların keyfini çıkarmanızı sağlar. Eğer doğayla iç içe bir yaşam arıyorsanız, Sivrihisar veya Mihalıççık gibi ilçeleri değerlendirebilirsiniz. Tercihinizi belirlemeden önce bölgeyi ziyaret edip yerel emlak uzmanlarından ve halktan bilgi almanız faydalı olacaktır."
+    },
+    {
+        "Id": 335,
+        "Soru": "Gaziantep'te ev almak istiyorum",
+        "Cevap": "Gaziantep'te ev almak için tercih edebileceğiniz birçok güzel semt bulunmaktadır. Örneğin, Şahinbey ve Şehitkamil gibi merkezi semtler, hem şehir yaşamının hem de sosyal olanakların keyfini çıkarmanızı sağlar. Eğer doğal güzelliklerle iç içe bir yaşam arıyorsanız, Oğuzeli veya Araban gibi ilçeleri değerlendirebilirsiniz. Tercihinizi belirlemeden önce bölgeyi ziyaret edip yerel emlak uzmanlarından ve halktan bilgi almanız faydalı olacaktır."
+    },
+    {
+        "Id": 336,
+        "Soru": "Giresun'da ev almak istiyorum",
+        "Cevap": "Giresun'da ev almak için tercih edebileceğiniz bazı semtler bulunmaktadır. Örneğin, Merkez ve Bulancak gibi merkezi semtler, şehir yaşamını sevenler için ideal olabilir. Eğer deniz manzaralı bir yaşam arıyorsanız, Espiye veya Tirebolu gibi ilçeleri değerlendirebilirsiniz. Tercihinizi belirlemeden önce bölgeyi ziyaret edip yerel emlak uzmanlarından ve halktan bilgi almanız faydalı olacaktır."
+    },
+    {
+        "Id": 336,
+        "Soru": "Gümüşhane'de ev almak istiyorum",
+        "Cevap": "Gümüşhane'de ev almak için tercih edebileceğiniz bazı semtler bulunmaktadır. Örneğin, Merkez ve Kelkit gibi merkezi semtler, şehir yaşamını sevenler için ideal olabilir. Eğer daha sakin bir yaşam arıyorsanız, Şiran veya Torul gibi ilçeleri değerlendirebilirsiniz. Tercihinizi belirlemeden önce bölgeyi ziyaret edip yerel emlak uzmanlarından ve halktan bilgi almanız faydalı olacaktır."
+    },
+    {
+        "Id": 337,
+        "Soru": "Hakkari'de ev almak istiyorum",
+        "Cevap": "Hakkari'de ev almak için tercih edebileceğiniz bazı semtler bulunmaktadır. Örneğin, Merkez ve Yüksekova gibi merkezi semtler, şehir yaşamını sevenler için ideal olabilir. Eğer doğayla iç içe bir yaşam arıyorsanız, Çukurca veya Şemdinli gibi ilçeleri değerlendirebilirsiniz. Tercihinizi belirlemeden önce bölgeyi ziyaret edip yerel emlak uzmanlarından ve halktan bilgi almanız faydalı olacaktır."
+    },
+    {
+        "Id": 338,
+        "Soru": "Hatay'da ev almak istiyorum",
+        "Cevap": "Hatay'da ev almak için tercih edebileceğiniz bazı semtler bulunmaktadır. Örneğin, Antakya ve İskenderun gibi merkezi semtler, hem şehir yaşamının hem de sosyal olanakların keyfini çıkarmanızı sağlar. Eğer deniz manzaralı bir yaşam arıyorsanız, Arsuz veya Payas gibi ilçeleri değerlendirebilirsiniz. Tercihinizi belirlemeden önce bölgeyi ziyaret edip yerel emlak uzmanlarından ve halktan bilgi almanız faydalı olacaktır."
+    },
+    {
+        "Id": 339,
+        "Soru": "Iğdır'da ev almak istiyorum",
+        "Cevap": "Iğdır'da ev almak için tercih edebileceğiniz bazı semtler bulunmaktadır. Örneğin, Merkez ve Aralık gibi merkezi semtler, şehir yaşamını sevenler için ideal olabilir. Eğer daha sakin bir yaşam arıyorsanız, Tuzluca veya Karakoyunlu gibi ilçeleri değerlendirebilirsiniz. Tercihinizi belirlemeden önce bölgeyi ziyaret edip yerel emlak uzmanlarından ve halktan bilgi almanız faydalı olacaktır."
+    },
+    {
+        "Id": 340,
+        "Soru": "Isparta'da ev almak istiyorum",
+        "Cevap": "Isparta'da ev almak için tercih edebileceğiniz bazı semtler bulunmaktadır. Örneğin, Merkez ve Yalvaç gibi merkezi semtler, şehir yaşamını sevenler için ideal olabilir. Eğer doğayla iç içe bir yaşam arıyorsanız, Senirkent veya Aksu gibi ilçeleri değerlendirebilirsiniz. Tercihinizi belirlemeden önce bölgeyi ziyaret edip yerel emlak uzmanlarından ve halktan bilgi almanız faydalı olacaktır."
+    },
+    {
+        "Id": 341,
+        "Soru": "Kahramanmaraş'ta ev almak istiyorum",
+        "Cevap": "Kahramanmaraş'ta ev almak için tercih edebileceğiniz bazı semtler bulunmaktadır. Örneğin, Dulkadiroğlu ve Onikişubat gibi merkezi semtler, şehir yaşamını sevenler için ideal olabilir. Eğer daha sakin bir yaşam arıyorsanız, Afşin veya Göksun gibi ilçeleri değerlendirebilirsiniz. Tercihinizi belirlemeden önce bölgeyi ziyaret edip yerel emlak uzmanlarından ve halktan bilgi almanız faydalı olacaktır."
+    },
+    {
+        "Id": 342,
+        "Soru": "Karabük'te ev almak istiyorum",
+        "Cevap": "Karabük'te ev almak için tercih edebileceğiniz bazı semtler bulunmaktadır. Örneğin, Merkez ve Safranbolu gibi merkezi semtler, şehir yaşamını sevenler için ideal olabilir. Eğer daha sakin bir yaşam arıyorsanız, Yenice veya Eflani gibi ilçeleri değerlendirebilirsiniz. Tercihinizi belirlemeden önce bölgeyi ziyaret edip yerel emlak uzmanlarından ve halktan bilgi almanız faydalı olacaktır."
+    },
+    {
+        "Id": 343,
+        "Soru": "Karaman'da ev almak istiyorum",
+        "Cevap": "Karaman'da ev almak için tercih edebileceğiniz bazı semtler bulunmaktadır. Örneğin, Merkez ve Ermenek gibi merkezi semtler, şehir yaşamını sevenler için ideal olabilir. Eğer daha sakin bir yaşam arıyorsanız, Ayrancı veya Sarıveliler gibi ilçeleri değerlendirebilirsiniz. Tercihinizi belirlemeden önce bölgeyi ziyaret edip yerel emlak uzmanlarından ve halktan bilgi almanız faydalı olacaktır."
+    },
+    {
+        "Id": 344,
+        "Soru": "Kars'ta ev almak istiyorum",
+        "Cevap": "Kars'ta ev almak için tercih edebileceğiniz bazı semtler bulunmaktadır. Örneğin, Merkez ve Sarıkamış gibi merkezi semtler, şehir yaşamını sevenler için ideal olabilir. Eğer daha sakin bir yaşam arıyorsanız, Digor veya Susuz gibi ilçeleri değerlendirebilirsiniz. Tercihinizi belirlemeden önce bölgeyi ziyaret edip yerel emlak uzmanlarından ve halktan bilgi almanız faydalı olacaktır."
+    },
+    {
+        "Id": 345,
+        "Soru": "Kastamonu'da ev almak istiyorum",
+        "Cevap": "Kastamonu'da ev almak için tercih edebileceğiniz bazı semtler bulunmaktadır. Örneğin, Merkez ve Taşköprü gibi merkezi semtler, şehir yaşamını sevenler için ideal olabilir. Eğer doğayla iç içe bir yaşam arıyorsanız, Tosya veya Araç gibi ilçeleri değerlendirebilirsiniz. Tercihinizi belirlemeden önce bölgeyi ziyaret edip yerel emlak uzmanlarından ve halktan bilgi almanız faydalı olacaktır."
+    },
+    {
+        "Id": 346,
+        "Soru": "Kayseri'de ev almak istiyorum",
+        "Cevap": "Kayseri'de ev almak için tercih edebileceğiniz birçok güzel semt bulunmaktadır. Örneğin, Melikgazi ve Kocasinan gibi merkezi semtler, hem şehir yaşamının hem de sosyal olanakların keyfini çıkarmanızı sağlar. Eğer doğal güzelliklerle iç içe bir yaşam arıyorsanız, Talas veya Tomarza gibi ilçeleri değerlendirebilirsiniz. Tercihinizi belirlemeden önce bölgeyi ziyaret edip yerel emlak uzmanlarından ve halktan bilgi almanız faydalı olacaktır."
+    },
+    {
+        "Id": 347,
+        "Soru": "Kırıkkale'de ev almak istiyorum",
+        "Cevap": "Kırıkkale'de ev almak için tercih edebileceğiniz bazı semtler bulunmaktadır. Örneğin, Merkez ve Bahşılı gibi merkezi semtler, şehir yaşamını sevenler için ideal olabilir. Eğer daha sakin bir yaşam arıyorsanız, Delice veya Karakeçili gibi ilçeleri değerlendirebilirsiniz. Tercihinizi belirlemeden önce bölgeyi ziyaret edip yerel emlak uzmanlarından ve halktan bilgi almanız faydalı olacaktır."
+    },
+    {
+        "Id": 348,
+        "Soru": "Kırklareli'nde ev almak istiyorum",
+        "Cevap": "Kırklareli'nde ev almak için tercih edebileceğiniz bazı semtler bulunmaktadır. Örneğin, Merkez ve Lüleburgaz gibi merkezi semtler, şehir yaşamını sevenler için ideal olabilir. Eğer daha sakin bir yaşam arıyorsanız, Demirköy veya Pınarhisar gibi ilçeleri değerlendirebilirsiniz. Tercihinizi belirlemeden önce bölgeyi ziyaret edip yerel emlak uzmanlarından ve halktan bilgi almanız faydalı olacaktır."
+    },
+    {
+        "Id": 349,
+        "Soru": "Kırşehir'de ev almak istiyorum",
+        "Cevap": "Kırşehir'de ev almak için tercih edebileceğiniz bazı semtler bulunmaktadır. Örneğin, Merkez ve Kaman gibi merkezi semtler, şehir yaşamını sevenler için ideal olabilir. Eğer daha sakin bir yaşam arıyorsanız, Akpınar veya Mucur gibi ilçeleri değerlendirebilirsiniz. Tercihinizi belirlemeden önce bölgeyi ziyaret edip yerel emlak uzmanlarından ve halktan bilgi almanız faydalı olacaktır."
+    },
+    {
+        "Id": 350,
+        "Soru": "Kilis'te ev almak istiyorum",
+        "Cevap": "Kilis'te ev almak için tercih edebileceğiniz bazı semtler bulunmaktadır. Örneğin, Merkez ve Elbeyli gibi merkezi semtler, şehir yaşamını sevenler için ideal olabilir. Eğer daha sakin bir yaşam arıyorsanız, Musabeyli veya Polateli gibi ilçeleri değerlendirebilirsiniz. Tercihinizi belirlemeden önce bölgeyi ziyaret edip yerel emlak uzmanlarından ve halktan bilgi almanız faydalı olacaktır."
+    },
+    {
+        "Id": 351,
+        "Soru": "Kocaeli'nde ev almak istiyorum",
+        "Cevap": "Kocaeli'nde ev almak için tercih edebileceğiniz birçok güzel semt bulunmaktadır. Örneğin, İzmit ve Gebze gibi merkezi semtler, hem şehir yaşamının hem de sosyal olanakların keyfini çıkarmanızı sağlar. Eğer deniz manzaralı bir yaşam arıyorsanız, Karamürsel veya Körfez gibi ilçeleri değerlendirebilirsiniz. Tercihinizi belirlemeden önce bölgeyi ziyaret edip yerel emlak uzmanlarından ve halktan bilgi almanız faydalı olacaktır."
+    },
+    {
+        "Id": 352,
+        "Soru": "Konya'da ev almak istiyorum",
+        "Cevap": "Konya'da ev almak için tercih edebileceğiniz birçok güzel semt bulunmaktadır. Örneğin, Meram ve Selçuklu gibi merkezi semtler, hem şehir yaşamının hem de sosyal olanakların keyfini çıkarmanızı sağlar. Eğer doğa ile iç içe bir yaşam arıyorsanız, Beyşehir veya Ilgın gibi ilçeleri değerlendirebilirsiniz. Tercihinizi belirlemeden önce bölgeyi ziyaret edip yerel emlak uzmanlarından ve halktan bilgi almanız faydalı olacaktır."
+    },
+    {
+        "Id": 353,
+        "Soru": "Kütahya'da ev almak istiyorum",
+        "Cevap": "Kütahya'da ev almak için tercih edebileceğiniz bazı semtler bulunmaktadır. Örneğin, Merkez ve Tavşanlı gibi merkezi semtler, şehir yaşamını sevenler için ideal olabilir. Eğer doğayla iç içe bir yaşam arıyorsanız, Simav veya Gediz gibi ilçeleri değerlendirebilirsiniz. Tercihinizi belirlemeden önce bölgeyi ziyaret edip yerel emlak uzmanlarından ve halktan bilgi almanız faydalı olacaktır."
+    },
+    {
+        "Id": 354,
+        "Soru": "Malatya'da ev almak istiyorum",
+        "Cevap": "Malatya'da ev almak için tercih edebileceğiniz birçok güzel semt bulunmaktadır. Örneğin, Battalgazi ve Yeşilyurt gibi merkezi semtler, hem şehir yaşamının hem de sosyal olanakların keyfini çıkarmanızı sağlar. Eğer doğal güzelliklerle iç içe bir yaşam arıyorsanız, Akçadağ veya Doğanşehir gibi ilçeleri değerlendirebilirsiniz. Tercihinizi belirlemeden önce bölgeyi ziyaret edip yerel emlak uzmanlarından ve halktan bilgi almanız faydalı olacaktır."
+    },
+    {
+        "Id": 355,
+        "Soru": "Manisa'da ev almak istiyorum",
+        "Cevap": "Manisa'da ev almak için tercih edebileceğiniz birçok güzel semt bulunmaktadır. Örneğin, Merkez ve Akhisar gibi merkezi semtler, hem şehir yaşamının hem de sosyal olanakların keyfini çıkarmanızı sağlar. Eğer doğal güzelliklerle iç içe bir yaşam arıyorsanız, Gölmarmara veya Saruhanlı gibi ilçeleri değerlendirebilirsiniz. Tercihinizi belirlemeden önce bölgeyi ziyaret edip yerel emlak uzmanlarından ve halktan bilgi almanız faydalı olacaktır."
+    },
+    {
+        "Id": 356,
+        "Soru": "Mardin'de ev almak istiyorum",
+        "Cevap": "Mardin'de ev almak için tercih edebileceğiniz bazı semtler bulunmaktadır. Örneğin, Merkez ve Midyat gibi merkezi semtler, şehir yaşamını sevenler için ideal olabilir. Eğer tarihi dokuya yakın bir yaşam arıyorsanız, Savur veya Nusaybin gibi ilçeleri değerlendirebilirsiniz. Tercihinizi belirlemeden önce bölgeyi ziyaret edip yerel emlak uzmanlarından ve halktan bilgi almanız faydalı olacaktır."
+    },
+    {
+        "Id": 357,
+        "Soru": "Mersin'de ev almak istiyorum",
+        "Cevap": "Mersin'de ev almak için tercih edebileceğiniz birçok güzel semt bulunmaktadır. Örneğin, Mezitli ve Yenişehir gibi merkezi semtler, hem şehir yaşamının hem de sosyal olanakların keyfini çıkarmanızı sağlar. Eğer deniz manzaralı bir yaşam arıyorsanız, Erdemli veya Silifke gibi ilçeleri değerlendirebilirsiniz. Tercihinizi belirlemeden önce bölgeyi ziyaret edip yerel emlak uzmanlarından ve halktan bilgi almanız faydalı olacaktır."
+    },
+    {
+        "Id": 358,
+        "Soru": "Muğla'da ev almak istiyorum",
+        "Cevap": "Muğla'da ev almak için tercih edebileceğiniz birçok güzel semt bulunmaktadır. Örneğin, Bodrum ve Marmaris gibi popüler tatil beldeleri, hem yazlık hem de kalıcı konutlar için ideal olabilir. Eğer doğayla iç içe bir yaşam arıyorsanız, Fethiye veya Datça gibi ilçeleri değerlendirebilirsiniz. Tercihinizi belirlemeden önce bölgeyi ziyaret edip yerel emlak uzmanlarından ve halktan bilgi almanız faydalı olacaktır."
+    },
+    {
+        "Id": 359,
+        "Soru": "Muş'ta ev almak istiyorum",
+        "Cevap": "Muş'ta ev almak için tercih edebileceğiniz bazı semtler bulunmaktadır. Örneğin, Merkez ve Bulanık gibi merkezi semtler, şehir yaşamını sevenler için ideal olabilir. Eğer daha sakin bir yaşam arıyorsanız, Malazgirt veya Varto gibi ilçeleri değerlendirebilirsiniz. Tercihinizi belirlemeden önce bölgeyi ziyaret edip yerel emlak uzmanlarından ve halktan bilgi almanız faydalı olacaktır."
+    },
+    {
+        "Id": 360,
+        "Soru": "Nevşehir'de ev almak istiyorum",
+        "Cevap": "Nevşehir'de ev almak için tercih edebileceğiniz bazı semtler bulunmaktadır. Örneğin, Merkez ve Ürgüp gibi turistik ve tarihi semtler, şehir yaşamını ve turizmi sevenler için ideal olabilir. Eğer daha sakin bir yaşam arıyorsanız, Avanos veya Hacıbektaş gibi ilçeleri değerlendirebilirsiniz. Tercihinizi belirlemeden önce bölgeyi ziyaret edip yerel emlak uzmanlarından ve halktan bilgi almanız faydalı olacaktır."
+    },
+    {
+        "Id": 361,
+        "Soru": "Niğde'de ev almak istiyorum",
+        "Cevap": "Niğde'de ev almak için tercih edebileceğiniz bazı semtler bulunmaktadır. Örneğin, Merkez ve Bor gibi merkezi semtler, şehir yaşamını sevenler için ideal olabilir. Eğer daha sakin bir yaşam arıyorsanız, Çamardı veya Ulukışla gibi ilçeleri değerlendirebilirsiniz. Tercihinizi belirlemeden önce bölgeyi ziyaret edip yerel emlak uzmanlarından ve halktan bilgi almanız faydalı olacaktır."
+    },
+    {
+        "Id": 362,
+        "Soru": "Ordu'da ev almak istiyorum",
+        "Cevap": "Ordu'da ev almak için tercih edebileceğiniz birçok güzel semt bulunmaktadır. Örneğin, Altınordu ve Ünye gibi merkezi semtler, hem şehir yaşamının hem de sosyal olanakların keyfini çıkarmanızı sağlar. Eğer deniz manzaralı bir yaşam arıyorsanız, Fatsa veya Perşembe gibi ilçeleri değerlendirebilirsiniz. Tercihinizi belirlemeden önce bölgeyi ziyaret edip yerel emlak uzmanlarından ve halktan bilgi almanız faydalı olacaktır."
+    },
+    {
+        "Id": 363,
+        "Soru": "Osmaniye'de ev almak istiyorum",
+        "Cevap": "Osmaniye'de ev almak için tercih edebileceğiniz bazı semtler bulunmaktadır. Örneğin, Merkez ve Kadirli gibi merkezi semtler, şehir yaşamını sevenler için ideal olabilir. Eğer daha sakin bir yaşam arıyorsanız, Düziçi veya Bahçe gibi ilçeleri değerlendirebilirsiniz. Tercihinizi belirlemeden önce bölgeyi ziyaret edip yerel emlak uzmanlarından ve halktan bilgi almanız faydalı olacaktır."
+    },
+    {
+        "Id": 364,
+        "Soru": "Rize'de ev almak istiyorum",
+        "Cevap": "Rize'de ev almak için tercih edebileceğiniz birçok güzel semt bulunmaktadır. Örneğin, Merkez ve Çayeli gibi merkezi semtler, hem şehir yaşamının hem de sosyal olanakların keyfini çıkarmanızı sağlar. Eğer doğa ile iç içe bir yaşam arıyorsanız, Ardeşen veya Pazar gibi ilçeleri değerlendirebilirsiniz. Tercihinizi belirlemeden önce bölgeyi ziyaret edip yerel emlak uzmanlarından ve halktan bilgi almanız faydalı olacaktır."
+    },
+    {
+        "Id": 365,
+        "Soru": "Sakarya'da ev almak istiyorum",
+        "Cevap": "Sakarya'da ev almak için tercih edebileceğiniz birçok güzel semt bulunmaktadır. Örneğin, Adapazarı ve Serdivan gibi merkezi semtler, hem şehir yaşamının hem de sosyal olanakların keyfini çıkarmanızı sağlar. Eğer daha sakin ve doğal bir yaşam arıyorsanız, Sapanca veya Karasu gibi ilçeleri değerlendirebilirsiniz. Tercihinizi belirlemeden önce bölgeyi ziyaret edip yerel emlak uzmanlarından ve halktan bilgi almanız faydalı olacaktır."
+    },
+    {
+        "Id": 366,
+        "Soru": "Samsun'da ev almak istiyorum",
+        "Cevap": "Samsun'da ev almak için tercih edebileceğiniz birçok güzel semt bulunmaktadır. Örneğin, Atakum ve İlkadım gibi merkezi semtler, hem şehir yaşamının hem de sosyal olanakların keyfini çıkarmanızı sağlar. Eğer deniz manzaralı bir yaşam arıyorsanız, Canik veya Bafra gibi ilçeleri değerlendirebilirsiniz. Tercihinizi belirlemeden önce bölgeyi ziyaret edip yerel emlak uzmanlarından ve halktan bilgi almanız faydalı olacaktır."
+    },
+    {
+        "Id": 367,
+        "Soru": "Siirt'te ev almak istiyorum",
+        "Cevap": "Siirt'te ev almak için tercih edebileceğiniz bazı semtler bulunmaktadır. Örneğin, Merkez ve Kurtalan gibi merkezi semtler, şehir yaşamını sevenler için ideal olabilir. Eğer daha sakin bir yaşam arıyorsanız, Baykan veya Pervari gibi ilçeleri değerlendirebilirsiniz. Tercihinizi belirlemeden önce bölgeyi ziyaret edip yerel emlak uzmanlarından ve halktan bilgi almanız faydalı olacaktır."
+    },
+    {
+        "Id": 368,
+        "Soru": "Sinop'ta ev almak istiyorum",
+        "Cevap": "Sinop'ta ev almak için tercih edebileceğiniz birçok güzel semt bulunmaktadır. Örneğin, Merkez ve Boyabat gibi merkezi semtler, hem şehir yaşamının hem de sosyal olanakların keyfini çıkarmanızı sağlar. Eğer deniz manzaralı bir yaşam arıyorsanız, Gerze veya Ayancık gibi ilçeleri değerlendirebilirsiniz. Tercihinizi belirlemeden önce bölgeyi ziyaret edip yerel emlak uzmanlarından ve halktan bilgi almanız faydalı olacaktır."
+    },
+    {
+        "Id": 369,
+        "Soru": "Sivas'ta ev almak istiyorum",
+        "Cevap": "Sivas'ta ev almak için tercih edebileceğiniz bazı semtler bulunmaktadır. Örneğin, Merkez ve Zara gibi merkezi semtler, şehir yaşamını sevenler için ideal olabilir. Eğer daha sakin bir yaşam arıyorsanız, Şarkışla veya Suşehri gibi ilçeleri değerlendirebilirsiniz. Tercihinizi belirlemeden önce bölgeyi ziyaret edip yerel emlak uzmanlarından ve halktan bilgi almanız faydalı olacaktır."
+    },
+    {
+        "Id": 370,
+        "Soru": "Şanlıurfa'da ev almak istiyorum",
+        "Cevap": "Şanlıurfa'da ev almak için tercih edebileceğiniz bazı semtler bulunmaktadır. Örneğin, Haliliye ve Eyyübiye gibi merkezi semtler, şehir yaşamını sevenler için ideal olabilir. Eğer daha sakin bir yaşam arıyorsanız, Karaköprü veya Suruç gibi ilçeleri değerlendirebilirsiniz. Tercihinizi belirlemeden önce bölgeyi ziyaret edip yerel emlak uzmanlarından ve halktan bilgi almanız faydalı olacaktır."
+    },
+    {
+        "Id": 371,
+        "Soru": "Şırnak'ta ev almak istiyorum",
+        "Cevap": "Şırnak'ta ev almak için tercih edebileceğiniz bazı semtler bulunmaktadır. Örneğin, Merkez ve Cizre gibi merkezi semtler, şehir yaşamını sevenler için ideal olabilir. Eğer daha sakin bir yaşam arıyorsanız, Silopi veya İdil gibi ilçeleri değerlendirebilirsiniz. Tercihinizi belirlemeden önce bölgeyi ziyaret edip yerel emlak uzmanlarından ve halktan bilgi almanız faydalı olacaktır."
+    },
+    {
+        "Id": 372,
+        "Soru": "Tekirdağ'da ev almak istiyorum",
+        "Cevap": "Tekirdağ'da ev almak için tercih edebileceğiniz birçok güzel semt bulunmaktadır. Örneğin, Süleymanpaşa ve Çorlu gibi merkezi semtler, hem şehir yaşamının hem de sosyal olanakların keyfini çıkarmanızı sağlar. Eğer deniz manzaralı bir yaşam arıyorsanız, Şarköy veya Marmaraereğlisi gibi ilçeleri değerlendirebilirsiniz. Tercihinizi belirlemeden önce bölgeyi ziyaret edip yerel emlak uzmanlarından ve halktan bilgi almanız faydalı olacaktır."
+    },
+    {
+        "Id": 373,
+        "Soru": "Tokat'ta ev almak istiyorum",
+        "Cevap": "Tokat'ta ev almak için tercih edebileceğiniz bazı semtler bulunmaktadır. Örneğin, Merkez ve Turhal gibi merkezi semtler, şehir yaşamını sevenler için ideal olabilir. Eğer daha sakin bir yaşam arıyorsanız, Erbaa veya Niksar gibi ilçeleri değerlendirebilirsiniz. Tercihinizi belirlemeden önce bölgeyi ziyaret edip yerel emlak uzmanlarından ve halktan bilgi almanız faydalı olacaktır."
+    },
+    {
+        "Id": 374,
+        "Soru": "Trabzon'da ev almak istiyorum",
+        "Cevap": "Trabzon'da ev almak için tercih edebileceğiniz birçok güzel semt bulunmaktadır. Örneğin, Ortahisar ve Akçaabat gibi merkezi semtler, hem şehir yaşamının hem de sosyal olanakların keyfini çıkarmanızı sağlar. Eğer deniz manzaralı bir yaşam arıyorsanız, Yomra veya Arsin gibi ilçeleri değerlendirebilirsiniz. Tercihinizi belirlemeden önce bölgeyi ziyaret edip yerel emlak uzmanlarından ve halktan bilgi almanız faydalı olacaktır."
+    },
+    {
+        "Id": 375,
+        "Soru": "Tunceli'de ev almak istiyorum",
+        "Cevap": "Tunceli'de ev almak için tercih edebileceğiniz bazı semtler bulunmaktadır. Örneğin, Merkez ve Pertek gibi merkezi semtler, şehir yaşamını sevenler için ideal olabilir. Eğer daha sakin bir yaşam arıyorsanız, Hozat veya Mazgirt gibi ilçeleri değerlendirebilirsiniz. Tercihinizi belirlemeden önce bölgeyi ziyaret edip yerel emlak uzmanlarından ve halktan bilgi almanız faydalı olacaktır."
+    },
+    {
+        "Id": 376,
+        "Soru": "Uşak'ta ev almak istiyorum",
+        "Cevap": "Uşak'ta ev almak için tercih edebileceğiniz bazı semtler bulunmaktadır. Örneğin, Merkez ve Banaz gibi merkezi semtler, şehir yaşamını sevenler için ideal olabilir. Eğer daha sakin bir yaşam arıyorsanız, Eşme veya Sivaslı gibi ilçeleri değerlendirebilirsiniz. Tercihinizi belirlemeden önce bölgeyi ziyaret edip yerel emlak uzmanlarından ve halktan bilgi almanız faydalı olacaktır."
+    },
+    {
+        "Id": 377,
+        "Soru": "Van'da ev almak istiyorum",
+        "Cevap": "Van'da ev almak için tercih edebileceğiniz bazı semtler bulunmaktadır. Örneğin, İpekyolu ve Edremit gibi merkezi semtler, şehir yaşamını sevenler için ideal olabilir. Eğer daha sakin bir yaşam arıyorsanız, Erciş veya Gevaş gibi ilçeleri değerlendirebilirsiniz. Tercihinizi belirlemeden önce bölgeyi ziyaret edip yerel emlak uzmanlarından ve halktan bilgi almanız faydalı olacaktır."
+    },
+    {
+        "Id": 378,
+        "Soru": "Yalova'da ev almak istiyorum",
+        "Cevap": "Yalova'da ev almak için tercih edebileceğiniz bazı semtler bulunmaktadır. Örneğin, Merkez ve Çiftlikköy gibi merkezi semtler, şehir yaşamını sevenler için ideal olabilir. Eğer daha sakin ve doğal bir yaşam arıyorsanız, Armutlu veya Termal gibi ilçeleri değerlendirebilirsiniz. Tercihinizi belirlemeden önce bölgeyi ziyaret edip yerel emlak uzmanlarından ve halktan bilgi almanız faydalı olacaktır."
+    },
+    {
+        "Id": 379,
+        "Soru": "Yozgat'ta ev almak istiyorum",
+        "Cevap": "Yozgat'ta ev almak için tercih edebileceğiniz bazı semtler bulunmaktadır. Örneğin, Merkez ve Sorgun gibi merkezi semtler, şehir yaşamını sevenler için ideal olabilir. Eğer daha sakin bir yaşam arıyorsanız, Yerköy veya Akdağmadeni gibi ilçeleri değerlendirebilirsiniz. Tercihinizi belirlemeden önce bölgeyi ziyaret edip yerel emlak uzmanlarından ve halktan bilgi almanız faydalı olacaktır."
+    },
+    {
+        "Id": 380,
+        "Soru": "Zonguldak'ta ev almak istiyorum",
+        "Cevap": "Zonguldak'ta ev almak için tercih edebileceğiniz bazı semtler bulunmaktadır. Örneğin, Merkez ve Ereğli gibi merkezi semtler, şehir yaşamını sevenler için ideal olabilir. Eğer daha sakin ve doğal bir yaşam arıyorsanız, Çaycuma veya Devrek gibi ilçeleri değerlendirebilirsiniz. Tercihinizi belirlemeden önce bölgeyi ziyaret edip yerel emlak uzmanlarından ve halktan bilgi almanız faydalı olacaktır."
+    },
+    {
+        "Id": 381,
+        "Soru": "merhaba",
+        "Cevap": "Merhaba! Ben EMLAK BİLGE, size yardımcı olmak için buradayım. Size nasıl yardımcı olabilirim?"
+    },
+    {
+        "Id": 382,
+        "Soru": "sen kimsin",
+        "Cevap": "Ben EMLAK BİLGE, emlak alım-satım ve kiralama konularında size rehberlik etmek için tasarlanmış bir yapay zeka asistanıyım."
+    },
+    {
+        "Id": 383,
+        "Soru": "ne yaparsın",
+        "Cevap": "Ben EMLAK BİLGE, emlakla ilgili sorularınızı yanıtlar, ev veya arsa alım-satımı ve kiralama süreçlerinde size yardımcı olurum. Ayrıca, yatırım yapmak isteyenler için de bilgi sağlarım."
+    },
+    {
+        "Id": 384,
+        "Soru": "emlak hakkında nasıl bilgi veriyorsun",
+        "Cevap": "Emlakla ilgili sorularınızı yanıtlamak için geniş bir bilgi tabanına sahibim. Ayrıca, piyasa trendleri ve bölgesel emlak bilgileri konusunda da size rehberlik edebilirim."
+    },
+    {
+        "Id": 385,
+        "Soru": "hangi konularda yardımcı olabilirsin",
+        "Cevap": "Emlak alım-satım, kiralama, yatırım, piyasa analizi ve bölgesel emlak bilgileri gibi konularda size yardımcı olabilirim. Sorularınızı bana iletin, size en iyi şekilde yardımcı olacağım."
+    },
+    {
+        "Id": 386,
+        "Soru": "emlak alırken nelere dikkat etmeliyim",
+        "Cevap": "Emlak alırken dikkat etmeniz gereken faktörler arasında konum, fiyat, mülkün durumu, çevredeki olanaklar ve gelecekteki değer artış potansiyeli bulunmaktadır. Ayrıca, yasal prosedürlere ve gerekli belgelere de dikkat etmelisiniz."
+    },
+    {
+        "Id": 387,
+        "Soru": "emlak satarken nelere dikkat etmeliyim",
+        "Cevap": "Emlak satarken, mülkün doğru fiyatlandırılması, potansiyel alıcılarla etkili iletişim ve pazarlama stratejileri önemlidir. Ayrıca, yasal prosedürlerin eksiksiz tamamlanması ve gerekli belgelerin hazır olması da gereklidir."
+    },
+    {
+        "Id": 388,
+        "Soru": "kiralık ev ararken nelere dikkat etmeliyim",
+        "Cevap": "Kiralık ev ararken kira sözleşmesinin detaylarına, kira bedeline, ödeme şartlarına, evin durumu ve eksikliklerine dikkat etmelisiniz. Ayrıca, ev sahibinin güvenilirliği ve kira artış oranları da önemli faktörlerdir."
+    },
+    {
+        "Id": 389,
+        "Soru": "yatırım için emlak alırken nelere dikkat etmeliyim",
+        "Cevap": "Yatırım için emlak alırken, mülkün konumu, kira getiri potansiyeli, çevredeki gelişim projeleri ve piyasa trendleri önemlidir. Ayrıca, mülkün gelecekteki değer artış potansiyeli de değerlendirilmelidir."
+    },
+    {
+        "Id": 390,
+        "Soru": "emlak piyasası hakkında nasıl bilgi alabilirim",
+        "Cevap": "Emlak piyasası hakkında bilgi almak için güncel piyasa analizlerini takip edebilir, yerel emlak danışmanlarından ve online emlak platformlarından yararlanabilirsiniz. Ben de EMLAK BİLGE olarak size bu konuda yardımcı olabilirim."
+    },
+    {
+        "Id": 391,
+        "Soru": "merhaba nasılsın",
+        "Cevap": "Merhaba! Ben çok iyiyim, teşekkür ederim. Size nasıl yardımcı olabilirim?"
+    },
+    {
+        "Id": 392,
+        "Soru": "bugün nasılsın",
+        "Cevap": "Bugün harikayım! Sizin için ne yapabilirim?"
+    },
+    {
+        "Id": 393,
+        "Soru": "Seninle konuşmak istiyorum uygun musun",
+        "Cevap": "Elbette, her zaman size yardımcı olmak için buradayım. Ne hakkında konuşmak istersiniz?"
+    },
+    {
+        "Id": 394,
+        "Soru": "günaydın, nasıl gidiyor",
+        "Cevap": "Günaydın! Her şey yolunda gidiyor. Size nasıl yardımcı olabilirim?"
+    },
+    {
+        "Id": 395,
+        "Soru": "selam",
+        "Cevap": "Selam! Evet, iyiyim. Size nasıl yardımcı olabilirim?"
+    },
+    {
+        "Id": 396,
+        "Soru": "seni daha iyi tanımak istiyorum  kim olduğunu anlatır mısın",
+        "Cevap": "Tabii ki! Ben EMLAK BİLGE, emlak alım-satım ve kiralama konularında size yardımcı olmak için buradayım."
+    },
+    {
+        "Id": 397,
+        "Soru": "bugün hava nasıl",
+        "Cevap": "Ben bir yapay zeka asistanıyım, bu yüzden hava durumunu bilemiyorum. Ancak, hava durumu hakkında bilgi almak için hava durumu sitelerine bakabilirsiniz."
+    },
+    {
+        "Id": 398,
+        "Soru": "ne yapıyorsun",
+        "Cevap": "Sizin sorularınızı yanıtlamak ve emlak konularında yardımcı olmak için buradayım. Size nasıl yardımcı olabilirim?"
+    },
+    {
+        "Id": 399,
+        "Soru": "neler yaparsın",
+        "Cevap": "Ben, emlak alım-satım ve kiralama süreçleri hakkında bilgi sağlar, yatırım tavsiyeleri verir ve emlak piyasası hakkında sorularınızı yanıtlarım."
+    },
+    {
+        "Id": 400,
+        "Soru": "görüşürüz",
+        "Cevap": "Görüşürüz! Size yardımcı olabildiğim için mutluyum. İyi günler dilerim!"
+    },
+    {
+        "Id": 415,
+        "Soru": "nerelisin",
+        "Cevap": "Ben bir yapay zeka asistanıyım, belirli bir yerim yok ama babam İzmir'li. Size emlak konularında yardımcı olmak için tasarlandım."
+    },
+    {
+        "Id": 416,
+        "Soru": "İnsan mısın",
+        "Cevap": "Hayır, ben bir yapay zeka asistanıyım. Sizin emlak ile ilgili sorularınızı yanıtlamak için buradayım."
+    },
+    {
+        "Id": 417,
+        "Soru": "insan mısın",
+        "Cevap": "Hayır, ben bir yapay zeka asistanıyım. Sizin emlak ile ilgili sorularınızı yanıtlamak için buradayım."
+    },
+    {
+        "Id": 418,
+        "Soru": "kaç yaşındasın",
+        "Cevap": "Benim yaşım yok, bir yapay zeka asistanıyım. Size yardımcı olmak için buradayım."
+    },
+    {
+        "Id": 419,
+        "Soru": "hangi dilleri konuşabiliyorsun",
+        "Cevap": "Benimle Türkçe olarak konuşabilirsiniz. Emlak konularında size yardımcı olmak için buradayım."
+    },
+    {
+        "Id": 420,
+        "Soru": "hangi konularda bilgi verebilirsin",
+        "Cevap": "Emlak alım-satım, kiralama, yatırım, piyasa analizi ve bölgesel emlak bilgileri gibi konularda bilgi verebilirim."
+    }
+]
